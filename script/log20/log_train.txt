@@ -1,0 +1,6481 @@
+Namespace(NUM_CLASSES=2, batch_size=32, croppingsize=20, decay_rate=0.5, decay_step=300000, gpu=0, learning_rate=0.001, log_dir='log20', max_epoch=800, momentum=0.9, optimizer='adam')
+**** EPOCH 000 ****
+----
+Train_mean loss: 0.402553
+Train_accuracy: 0.819036
+----
+eval mean loss: 0.298336
+eval accuracy: 0.863742
+eval avg class acc: 0.848240
+Model saved in file: log20/model20.ckpt
+**** EPOCH 001 ****
+----
+Train_mean loss: 0.321388
+Train_accuracy: 0.854309
+----
+eval mean loss: 0.268880
+eval accuracy: 0.878343
+eval avg class acc: 0.870846
+**** EPOCH 002 ****
+----
+Train_mean loss: 0.300220
+Train_accuracy: 0.871214
+----
+eval mean loss: 0.271175
+eval accuracy: 0.877170
+eval avg class acc: 0.885291
+**** EPOCH 003 ****
+----
+Train_mean loss: 0.281729
+Train_accuracy: 0.875834
+----
+eval mean loss: 0.269423
+eval accuracy: 0.883053
+eval avg class acc: 0.883014
+**** EPOCH 004 ****
+----
+Train_mean loss: 0.276935
+Train_accuracy: 0.877774
+----
+eval mean loss: 0.245209
+eval accuracy: 0.895831
+eval avg class acc: 0.902638
+**** EPOCH 005 ****
+----
+Train_mean loss: 0.269714
+Train_accuracy: 0.881873
+----
+eval mean loss: 0.247888
+eval accuracy: 0.885059
+eval avg class acc: 0.863486
+**** EPOCH 006 ****
+----
+Train_mean loss: 0.253472
+Train_accuracy: 0.888720
+----
+eval mean loss: 0.263552
+eval accuracy: 0.881452
+eval avg class acc: 0.857140
+**** EPOCH 007 ****
+----
+Train_mean loss: 0.237913
+Train_accuracy: 0.895682
+----
+eval mean loss: 0.210046
+eval accuracy: 0.908896
+eval avg class acc: 0.907391
+**** EPOCH 008 ****
+----
+Train_mean loss: 0.222047
+Train_accuracy: 0.904331
+----
+eval mean loss: 0.198867
+eval accuracy: 0.914053
+eval avg class acc: 0.912451
+**** EPOCH 009 ****
+----
+Train_mean loss: 0.227511
+Train_accuracy: 0.902667
+----
+eval mean loss: 0.203733
+eval accuracy: 0.912812
+eval avg class acc: 0.918695
+**** EPOCH 010 ****
+----
+Train_mean loss: 0.232445
+Train_accuracy: 0.898314
+----
+eval mean loss: 0.196323
+eval accuracy: 0.915832
+eval avg class acc: 0.913667
+Model saved in file: log20/model20.ckpt
+**** EPOCH 011 ****
+----
+Train_mean loss: 0.211065
+Train_accuracy: 0.910919
+----
+eval mean loss: 0.206156
+eval accuracy: 0.908083
+eval avg class acc: 0.890792
+**** EPOCH 012 ****
+----
+Train_mean loss: 0.204774
+Train_accuracy: 0.911529
+----
+eval mean loss: 0.167598
+eval accuracy: 0.929802
+eval avg class acc: 0.926472
+**** EPOCH 013 ****
+----
+Train_mean loss: 0.206499
+Train_accuracy: 0.910705
+----
+eval mean loss: 0.220464
+eval accuracy: 0.906303
+eval avg class acc: 0.907678
+**** EPOCH 014 ****
+----
+Train_mean loss: 0.218748
+Train_accuracy: 0.908559
+----
+eval mean loss: 0.177937
+eval accuracy: 0.926633
+eval avg class acc: 0.923982
+**** EPOCH 015 ****
+----
+Train_mean loss: 0.196808
+Train_accuracy: 0.916741
+----
+eval mean loss: 0.211768
+eval accuracy: 0.906288
+eval avg class acc: 0.917334
+**** EPOCH 016 ****
+----
+Train_mean loss: 0.185736
+Train_accuracy: 0.920844
+----
+eval mean loss: 0.154961
+eval accuracy: 0.934930
+eval avg class acc: 0.927503
+**** EPOCH 017 ****
+----
+Train_mean loss: 0.177451
+Train_accuracy: 0.924824
+----
+eval mean loss: 0.147458
+eval accuracy: 0.938409
+eval avg class acc: 0.937179
+**** EPOCH 018 ****
+----
+Train_mean loss: 0.181622
+Train_accuracy: 0.922045
+----
+eval mean loss: 0.165573
+eval accuracy: 0.931387
+eval avg class acc: 0.930691
+**** EPOCH 019 ****
+----
+Train_mean loss: 0.189144
+Train_accuracy: 0.920670
+----
+eval mean loss: 0.148512
+eval accuracy: 0.937054
+eval avg class acc: 0.932736
+**** EPOCH 020 ****
+----
+Train_mean loss: 0.170673
+Train_accuracy: 0.927168
+----
+eval mean loss: 0.182169
+eval accuracy: 0.922005
+eval avg class acc: 0.919907
+Model saved in file: log20/model20.ckpt
+**** EPOCH 021 ****
+----
+Train_mean loss: 0.181211
+Train_accuracy: 0.923255
+----
+eval mean loss: 0.218371
+eval accuracy: 0.909431
+eval avg class acc: 0.917880
+**** EPOCH 022 ****
+----
+Train_mean loss: 0.181457
+Train_accuracy: 0.924396
+----
+eval mean loss: 0.142550
+eval accuracy: 0.939857
+eval avg class acc: 0.933839
+**** EPOCH 023 ****
+----
+Train_mean loss: 0.158821
+Train_accuracy: 0.934399
+----
+eval mean loss: 0.140734
+eval accuracy: 0.940083
+eval avg class acc: 0.931549
+**** EPOCH 024 ****
+----
+Train_mean loss: 0.167980
+Train_accuracy: 0.931293
+----
+eval mean loss: 0.159243
+eval accuracy: 0.932111
+eval avg class acc: 0.935761
+**** EPOCH 025 ****
+----
+Train_mean loss: 0.161258
+Train_accuracy: 0.931938
+----
+eval mean loss: 0.128946
+eval accuracy: 0.945550
+eval avg class acc: 0.943960
+**** EPOCH 026 ****
+----
+Train_mean loss: 0.143620
+Train_accuracy: 0.940639
+----
+eval mean loss: 0.146127
+eval accuracy: 0.938546
+eval avg class acc: 0.941703
+**** EPOCH 027 ****
+----
+Train_mean loss: 0.157794
+Train_accuracy: 0.933733
+----
+eval mean loss: 0.164707
+eval accuracy: 0.929202
+eval avg class acc: 0.923201
+**** EPOCH 028 ****
+----
+Train_mean loss: 0.160653
+Train_accuracy: 0.932299
+----
+eval mean loss: 0.130778
+eval accuracy: 0.944877
+eval avg class acc: 0.939910
+**** EPOCH 029 ****
+----
+Train_mean loss: 0.142820
+Train_accuracy: 0.940249
+----
+eval mean loss: 0.125727
+eval accuracy: 0.946396
+eval avg class acc: 0.941790
+**** EPOCH 030 ****
+----
+Train_mean loss: 0.134251
+Train_accuracy: 0.944229
+----
+eval mean loss: 0.123759
+eval accuracy: 0.947272
+eval avg class acc: 0.943843
+Model saved in file: log20/model20.ckpt
+**** EPOCH 031 ****
+----
+Train_mean loss: 0.144890
+Train_accuracy: 0.938274
+----
+eval mean loss: 0.207769
+eval accuracy: 0.915366
+eval avg class acc: 0.898487
+**** EPOCH 032 ****
+----
+Train_mean loss: 0.164831
+Train_accuracy: 0.929367
+----
+eval mean loss: 0.136328
+eval accuracy: 0.943606
+eval avg class acc: 0.940053
+**** EPOCH 033 ****
+----
+Train_mean loss: 0.147964
+Train_accuracy: 0.938115
+----
+eval mean loss: 0.130167
+eval accuracy: 0.944261
+eval avg class acc: 0.936769
+**** EPOCH 034 ****
+----
+Train_mean loss: 0.142366
+Train_accuracy: 0.940150
+----
+eval mean loss: 0.140575
+eval accuracy: 0.941657
+eval avg class acc: 0.945594
+**** EPOCH 035 ****
+----
+Train_mean loss: 0.144531
+Train_accuracy: 0.939918
+----
+eval mean loss: 0.147936
+eval accuracy: 0.936452
+eval avg class acc: 0.942095
+**** EPOCH 036 ****
+----
+Train_mean loss: 0.139430
+Train_accuracy: 0.941667
+----
+eval mean loss: 0.126244
+eval accuracy: 0.946188
+eval avg class acc: 0.949228
+**** EPOCH 037 ****
+----
+Train_mean loss: 0.122819
+Train_accuracy: 0.948572
+----
+eval mean loss: 0.116673
+eval accuracy: 0.950211
+eval avg class acc: 0.953728
+**** EPOCH 038 ****
+----
+Train_mean loss: 0.117064
+Train_accuracy: 0.950877
+----
+eval mean loss: 0.111136
+eval accuracy: 0.952978
+eval avg class acc: 0.950311
+**** EPOCH 039 ****
+----
+Train_mean loss: 0.121767
+Train_accuracy: 0.948772
+----
+eval mean loss: 0.116457
+eval accuracy: 0.951229
+eval avg class acc: 0.946513
+**** EPOCH 040 ****
+----
+Train_mean loss: 0.120448
+Train_accuracy: 0.949787
+----
+eval mean loss: 0.121302
+eval accuracy: 0.947808
+eval avg class acc: 0.940510
+Model saved in file: log20/model20.ckpt
+**** EPOCH 041 ****
+----
+Train_mean loss: 0.122308
+Train_accuracy: 0.948112
+----
+eval mean loss: 0.102275
+eval accuracy: 0.957144
+eval avg class acc: 0.955405
+**** EPOCH 042 ****
+----
+Train_mean loss: 0.153310
+Train_accuracy: 0.935718
+----
+eval mean loss: 0.145394
+eval accuracy: 0.940233
+eval avg class acc: 0.943412
+**** EPOCH 043 ****
+----
+Train_mean loss: 0.131366
+Train_accuracy: 0.944928
+----
+eval mean loss: 0.113155
+eval accuracy: 0.951482
+eval avg class acc: 0.954978
+**** EPOCH 044 ****
+----
+Train_mean loss: 0.119093
+Train_accuracy: 0.950049
+----
+eval mean loss: 0.113860
+eval accuracy: 0.952218
+eval avg class acc: 0.951743
+**** EPOCH 045 ****
+----
+Train_mean loss: 0.117925
+Train_accuracy: 0.950947
+----
+eval mean loss: 0.107349
+eval accuracy: 0.954977
+eval avg class acc: 0.953824
+**** EPOCH 046 ****
+----
+Train_mean loss: 0.120541
+Train_accuracy: 0.948711
+----
+eval mean loss: 0.105442
+eval accuracy: 0.955343
+eval avg class acc: 0.954247
+**** EPOCH 047 ****
+----
+Train_mean loss: 0.111857
+Train_accuracy: 0.953122
+----
+eval mean loss: 0.106717
+eval accuracy: 0.955360
+eval avg class acc: 0.955162
+**** EPOCH 048 ****
+----
+Train_mean loss: 0.111503
+Train_accuracy: 0.952568
+----
+eval mean loss: 0.102554
+eval accuracy: 0.956475
+eval avg class acc: 0.954278
+**** EPOCH 049 ****
+----
+Train_mean loss: 0.106133
+Train_accuracy: 0.955439
+----
+eval mean loss: 0.107764
+eval accuracy: 0.954376
+eval avg class acc: 0.956620
+**** EPOCH 050 ****
+----
+Train_mean loss: 0.100900
+Train_accuracy: 0.957729
+----
+eval mean loss: 0.092523
+eval accuracy: 0.960387
+eval avg class acc: 0.961361
+Model saved in file: log20/model20.ckpt
+**** EPOCH 051 ****
+----
+Train_mean loss: 0.097029
+Train_accuracy: 0.959148
+----
+eval mean loss: 0.092273
+eval accuracy: 0.962252
+eval avg class acc: 0.961198
+**** EPOCH 052 ****
+----
+Train_mean loss: 0.103783
+Train_accuracy: 0.956917
+----
+eval mean loss: 0.182225
+eval accuracy: 0.923141
+eval avg class acc: 0.932499
+**** EPOCH 053 ****
+----
+Train_mean loss: 0.128856
+Train_accuracy: 0.946315
+----
+eval mean loss: 0.130978
+eval accuracy: 0.945683
+eval avg class acc: 0.935709
+**** EPOCH 054 ****
+----
+Train_mean loss: 0.174434
+Train_accuracy: 0.926685
+----
+eval mean loss: 0.160649
+eval accuracy: 0.934341
+eval avg class acc: 0.925783
+**** EPOCH 055 ****
+----
+Train_mean loss: 0.131836
+Train_accuracy: 0.945037
+----
+eval mean loss: 0.107057
+eval accuracy: 0.955037
+eval avg class acc: 0.955605
+**** EPOCH 056 ****
+----
+Train_mean loss: 0.110032
+Train_accuracy: 0.953671
+----
+eval mean loss: 0.094218
+eval accuracy: 0.960204
+eval avg class acc: 0.957250
+**** EPOCH 057 ****
+----
+Train_mean loss: 0.100802
+Train_accuracy: 0.958115
+----
+eval mean loss: 0.095375
+eval accuracy: 0.959438
+eval avg class acc: 0.956683
+**** EPOCH 058 ****
+----
+Train_mean loss: 0.094532
+Train_accuracy: 0.960607
+----
+eval mean loss: 0.087289
+eval accuracy: 0.962596
+eval avg class acc: 0.957473
+**** EPOCH 059 ****
+----
+Train_mean loss: 0.107919
+Train_accuracy: 0.954989
+----
+eval mean loss: 0.119515
+eval accuracy: 0.947949
+eval avg class acc: 0.951385
+**** EPOCH 060 ****
+----
+Train_mean loss: 0.143639
+Train_accuracy: 0.941175
+----
+eval mean loss: 0.117777
+eval accuracy: 0.951934
+eval avg class acc: 0.948708
+Model saved in file: log20/model20.ckpt
+**** EPOCH 061 ****
+----
+Train_mean loss: 0.119006
+Train_accuracy: 0.950375
+----
+eval mean loss: 0.107531
+eval accuracy: 0.955291
+eval avg class acc: 0.952053
+**** EPOCH 062 ****
+----
+Train_mean loss: 0.097195
+Train_accuracy: 0.959900
+----
+eval mean loss: 0.096439
+eval accuracy: 0.958837
+eval avg class acc: 0.957731
+**** EPOCH 063 ****
+----
+Train_mean loss: 0.101623
+Train_accuracy: 0.957888
+----
+eval mean loss: 0.085071
+eval accuracy: 0.964482
+eval avg class acc: 0.963071
+**** EPOCH 064 ****
+----
+Train_mean loss: 0.096254
+Train_accuracy: 0.959520
+----
+eval mean loss: 0.102757
+eval accuracy: 0.956906
+eval avg class acc: 0.956685
+**** EPOCH 065 ****
+----
+Train_mean loss: 0.095822
+Train_accuracy: 0.959855
+----
+eval mean loss: 0.084395
+eval accuracy: 0.964452
+eval avg class acc: 0.964389
+**** EPOCH 066 ****
+----
+Train_mean loss: 0.090264
+Train_accuracy: 0.962664
+----
+eval mean loss: 0.088972
+eval accuracy: 0.962046
+eval avg class acc: 0.962318
+**** EPOCH 067 ****
+----
+Train_mean loss: 0.083655
+Train_accuracy: 0.965235
+----
+eval mean loss: 0.077848
+eval accuracy: 0.967276
+eval avg class acc: 0.964248
+**** EPOCH 068 ****
+----
+Train_mean loss: 0.083033
+Train_accuracy: 0.965495
+----
+eval mean loss: 0.078599
+eval accuracy: 0.966937
+eval avg class acc: 0.964385
+**** EPOCH 069 ****
+----
+Train_mean loss: 0.084127
+Train_accuracy: 0.965046
+----
+eval mean loss: 0.074468
+eval accuracy: 0.969011
+eval avg class acc: 0.966629
+**** EPOCH 070 ****
+----
+Train_mean loss: 0.081333
+Train_accuracy: 0.965961
+----
+eval mean loss: 0.081707
+eval accuracy: 0.966067
+eval avg class acc: 0.967333
+Model saved in file: log20/model20.ckpt
+**** EPOCH 071 ****
+----
+Train_mean loss: 0.090494
+Train_accuracy: 0.963177
+----
+eval mean loss: 0.083650
+eval accuracy: 0.965677
+eval avg class acc: 0.965701
+**** EPOCH 072 ****
+----
+Train_mean loss: 0.089666
+Train_accuracy: 0.963043
+----
+eval mean loss: 0.073411
+eval accuracy: 0.969337
+eval avg class acc: 0.968416
+**** EPOCH 073 ****
+----
+Train_mean loss: 0.085784
+Train_accuracy: 0.964324
+----
+eval mean loss: 0.083538
+eval accuracy: 0.965003
+eval avg class acc: 0.967768
+**** EPOCH 074 ****
+----
+Train_mean loss: 0.083029
+Train_accuracy: 0.965575
+----
+eval mean loss: 0.076679
+eval accuracy: 0.968070
+eval avg class acc: 0.968376
+**** EPOCH 075 ****
+----
+Train_mean loss: 0.078923
+Train_accuracy: 0.967505
+----
+eval mean loss: 0.085363
+eval accuracy: 0.964745
+eval avg class acc: 0.966780
+**** EPOCH 076 ****
+----
+Train_mean loss: 0.082541
+Train_accuracy: 0.965727
+----
+eval mean loss: 0.080569
+eval accuracy: 0.966450
+eval avg class acc: 0.965674
+**** EPOCH 077 ****
+----
+Train_mean loss: 0.083683
+Train_accuracy: 0.965140
+----
+eval mean loss: 0.075813
+eval accuracy: 0.968582
+eval avg class acc: 0.966041
+**** EPOCH 078 ****
+----
+Train_mean loss: 0.077368
+Train_accuracy: 0.968244
+----
+eval mean loss: 0.074457
+eval accuracy: 0.968937
+eval avg class acc: 0.968890
+**** EPOCH 079 ****
+----
+Train_mean loss: 0.077112
+Train_accuracy: 0.968040
+----
+eval mean loss: 0.070198
+eval accuracy: 0.970614
+eval avg class acc: 0.970188
+**** EPOCH 080 ****
+----
+Train_mean loss: 0.076293
+Train_accuracy: 0.968491
+----
+eval mean loss: 0.071612
+eval accuracy: 0.970523
+eval avg class acc: 0.970860
+Model saved in file: log20/model20.ckpt
+**** EPOCH 081 ****
+----
+Train_mean loss: 0.079784
+Train_accuracy: 0.966978
+----
+eval mean loss: 0.076422
+eval accuracy: 0.968418
+eval avg class acc: 0.968713
+**** EPOCH 082 ****
+----
+Train_mean loss: 0.083862
+Train_accuracy: 0.965322
+----
+eval mean loss: 0.085518
+eval accuracy: 0.964600
+eval avg class acc: 0.964454
+**** EPOCH 083 ****
+----
+Train_mean loss: 0.089354
+Train_accuracy: 0.963015
+----
+eval mean loss: 0.098860
+eval accuracy: 0.958987
+eval avg class acc: 0.953893
+**** EPOCH 084 ****
+----
+Train_mean loss: 0.081918
+Train_accuracy: 0.966412
+----
+eval mean loss: 0.068370
+eval accuracy: 0.972246
+eval avg class acc: 0.972255
+**** EPOCH 085 ****
+----
+Train_mean loss: 0.092558
+Train_accuracy: 0.961801
+----
+eval mean loss: 0.082442
+eval accuracy: 0.965949
+eval avg class acc: 0.964441
+**** EPOCH 086 ****
+----
+Train_mean loss: 0.088964
+Train_accuracy: 0.963087
+----
+eval mean loss: 0.093929
+eval accuracy: 0.960638
+eval avg class acc: 0.964796
+**** EPOCH 087 ****
+----
+Train_mean loss: 0.118336
+Train_accuracy: 0.954825
+----
+eval mean loss: 0.114712
+eval accuracy: 0.952871
+eval avg class acc: 0.950120
+**** EPOCH 088 ****
+----
+Train_mean loss: 0.118455
+Train_accuracy: 0.952557
+----
+eval mean loss: 0.082356
+eval accuracy: 0.965958
+eval avg class acc: 0.964069
+**** EPOCH 089 ****
+----
+Train_mean loss: 0.085750
+Train_accuracy: 0.964831
+----
+eval mean loss: 0.078256
+eval accuracy: 0.967246
+eval avg class acc: 0.964935
+**** EPOCH 090 ****
+----
+Train_mean loss: 0.079783
+Train_accuracy: 0.967143
+----
+eval mean loss: 0.077043
+eval accuracy: 0.968074
+eval avg class acc: 0.964217
+Model saved in file: log20/model20.ckpt
+**** EPOCH 091 ****
+----
+Train_mean loss: 0.075365
+Train_accuracy: 0.969048
+----
+eval mean loss: 0.071948
+eval accuracy: 0.970046
+eval avg class acc: 0.967776
+**** EPOCH 092 ****
+----
+Train_mean loss: 0.076123
+Train_accuracy: 0.968781
+----
+eval mean loss: 0.064745
+eval accuracy: 0.973442
+eval avg class acc: 0.972424
+**** EPOCH 093 ****
+----
+Train_mean loss: 0.074707
+Train_accuracy: 0.969356
+----
+eval mean loss: 0.067270
+eval accuracy: 0.972519
+eval avg class acc: 0.970639
+**** EPOCH 094 ****
+----
+Train_mean loss: 0.087580
+Train_accuracy: 0.963947
+----
+eval mean loss: 0.095883
+eval accuracy: 0.960571
+eval avg class acc: 0.955316
+**** EPOCH 095 ****
+----
+Train_mean loss: 0.081340
+Train_accuracy: 0.967075
+----
+eval mean loss: 0.071603
+eval accuracy: 0.970542
+eval avg class acc: 0.971564
+**** EPOCH 096 ****
+----
+Train_mean loss: 0.093521
+Train_accuracy: 0.962221
+----
+eval mean loss: 0.191819
+eval accuracy: 0.919917
+eval avg class acc: 0.931280
+**** EPOCH 097 ****
+----
+Train_mean loss: 0.087253
+Train_accuracy: 0.964222
+----
+eval mean loss: 0.076714
+eval accuracy: 0.968846
+eval avg class acc: 0.970295
+**** EPOCH 098 ****
+----
+Train_mean loss: 0.079631
+Train_accuracy: 0.967650
+----
+eval mean loss: 0.077760
+eval accuracy: 0.967438
+eval avg class acc: 0.965614
+**** EPOCH 099 ****
+----
+Train_mean loss: 0.076633
+Train_accuracy: 0.968489
+----
+eval mean loss: 0.069276
+eval accuracy: 0.971592
+eval avg class acc: 0.969533
+**** EPOCH 100 ****
+----
+Train_mean loss: 0.070929
+Train_accuracy: 0.970739
+----
+eval mean loss: 0.069949
+eval accuracy: 0.971681
+eval avg class acc: 0.972599
+Model saved in file: log20/model20.ckpt
+**** EPOCH 101 ****
+----
+Train_mean loss: 0.069212
+Train_accuracy: 0.971871
+----
+eval mean loss: 0.077378
+eval accuracy: 0.967604
+eval avg class acc: 0.968424
+**** EPOCH 102 ****
+----
+Train_mean loss: 0.065671
+Train_accuracy: 0.972886
+----
+eval mean loss: 0.058895
+eval accuracy: 0.975791
+eval avg class acc: 0.974816
+**** EPOCH 103 ****
+----
+Train_mean loss: 0.064841
+Train_accuracy: 0.973260
+----
+eval mean loss: 0.057086
+eval accuracy: 0.976389
+eval avg class acc: 0.975324
+**** EPOCH 104 ****
+----
+Train_mean loss: 0.066296
+Train_accuracy: 0.972463
+----
+eval mean loss: 0.057826
+eval accuracy: 0.976023
+eval avg class acc: 0.975594
+**** EPOCH 105 ****
+----
+Train_mean loss: 0.066264
+Train_accuracy: 0.972624
+----
+eval mean loss: 0.076976
+eval accuracy: 0.967622
+eval avg class acc: 0.966191
+**** EPOCH 106 ****
+----
+Train_mean loss: 0.075960
+Train_accuracy: 0.968618
+----
+eval mean loss: 0.072014
+eval accuracy: 0.969800
+eval avg class acc: 0.970471
+**** EPOCH 107 ****
+----
+Train_mean loss: 0.080043
+Train_accuracy: 0.967156
+----
+eval mean loss: 0.085273
+eval accuracy: 0.963841
+eval avg class acc: 0.961145
+**** EPOCH 108 ****
+----
+Train_mean loss: 0.080677
+Train_accuracy: 0.966826
+----
+eval mean loss: 0.073757
+eval accuracy: 0.969491
+eval avg class acc: 0.971549
+**** EPOCH 109 ****
+----
+Train_mean loss: 0.068317
+Train_accuracy: 0.971825
+----
+eval mean loss: 0.063552
+eval accuracy: 0.973750
+eval avg class acc: 0.974815
+**** EPOCH 110 ****
+----
+Train_mean loss: 0.065319
+Train_accuracy: 0.973219
+----
+eval mean loss: 0.058898
+eval accuracy: 0.975882
+eval avg class acc: 0.975832
+Model saved in file: log20/model20.ckpt
+**** EPOCH 111 ****
+----
+Train_mean loss: 0.064404
+Train_accuracy: 0.973425
+----
+eval mean loss: 0.055966
+eval accuracy: 0.977214
+eval avg class acc: 0.975467
+**** EPOCH 112 ****
+----
+Train_mean loss: 0.065439
+Train_accuracy: 0.973649
+----
+eval mean loss: 0.062781
+eval accuracy: 0.974254
+eval avg class acc: 0.973949
+**** EPOCH 113 ****
+----
+Train_mean loss: 0.064531
+Train_accuracy: 0.973606
+----
+eval mean loss: 0.059103
+eval accuracy: 0.975311
+eval avg class acc: 0.974805
+**** EPOCH 114 ****
+----
+Train_mean loss: 0.063851
+Train_accuracy: 0.973670
+----
+eval mean loss: 0.057312
+eval accuracy: 0.976731
+eval avg class acc: 0.977345
+**** EPOCH 115 ****
+----
+Train_mean loss: 0.061242
+Train_accuracy: 0.974877
+----
+eval mean loss: 0.062877
+eval accuracy: 0.974358
+eval avg class acc: 0.973596
+**** EPOCH 116 ****
+----
+Train_mean loss: 0.065613
+Train_accuracy: 0.973140
+----
+eval mean loss: 0.060255
+eval accuracy: 0.975106
+eval avg class acc: 0.972541
+**** EPOCH 117 ****
+----
+Train_mean loss: 0.064780
+Train_accuracy: 0.973691
+----
+eval mean loss: 0.055227
+eval accuracy: 0.977279
+eval avg class acc: 0.977250
+**** EPOCH 118 ****
+----
+Train_mean loss: 0.061852
+Train_accuracy: 0.974479
+----
+eval mean loss: 0.075533
+eval accuracy: 0.969258
+eval avg class acc: 0.965703
+**** EPOCH 119 ****
+----
+Train_mean loss: 0.064608
+Train_accuracy: 0.973598
+----
+eval mean loss: 0.055825
+eval accuracy: 0.976958
+eval avg class acc: 0.975359
+**** EPOCH 120 ****
+----
+Train_mean loss: 0.060832
+Train_accuracy: 0.974980
+----
+eval mean loss: 0.064588
+eval accuracy: 0.972902
+eval avg class acc: 0.971050
+Model saved in file: log20/model20.ckpt
+**** EPOCH 121 ****
+----
+Train_mean loss: 0.058277
+Train_accuracy: 0.976131
+----
+eval mean loss: 0.051483
+eval accuracy: 0.978647
+eval avg class acc: 0.978544
+**** EPOCH 122 ****
+----
+Train_mean loss: 0.059730
+Train_accuracy: 0.975326
+----
+eval mean loss: 0.052317
+eval accuracy: 0.978497
+eval avg class acc: 0.978839
+**** EPOCH 123 ****
+----
+Train_mean loss: 0.058679
+Train_accuracy: 0.975851
+----
+eval mean loss: 0.059086
+eval accuracy: 0.975560
+eval avg class acc: 0.974777
+**** EPOCH 124 ****
+----
+Train_mean loss: 0.059251
+Train_accuracy: 0.975695
+----
+eval mean loss: 0.060708
+eval accuracy: 0.975218
+eval avg class acc: 0.973445
+**** EPOCH 125 ****
+----
+Train_mean loss: 0.060860
+Train_accuracy: 0.975063
+----
+eval mean loss: 0.092318
+eval accuracy: 0.962721
+eval avg class acc: 0.965710
+**** EPOCH 126 ****
+----
+Train_mean loss: 0.057249
+Train_accuracy: 0.976649
+----
+eval mean loss: 0.052766
+eval accuracy: 0.978189
+eval avg class acc: 0.975697
+**** EPOCH 127 ****
+----
+Train_mean loss: 0.061205
+Train_accuracy: 0.974717
+----
+eval mean loss: 0.069768
+eval accuracy: 0.971588
+eval avg class acc: 0.968771
+**** EPOCH 128 ****
+----
+Train_mean loss: 0.089346
+Train_accuracy: 0.963589
+----
+eval mean loss: 0.092337
+eval accuracy: 0.962933
+eval avg class acc: 0.959422
+**** EPOCH 129 ****
+----
+Train_mean loss: 0.143467
+Train_accuracy: 0.940963
+----
+eval mean loss: 0.171299
+eval accuracy: 0.927759
+eval avg class acc: 0.921962
+**** EPOCH 130 ****
+----
+Train_mean loss: 0.121425
+Train_accuracy: 0.950266
+----
+eval mean loss: 0.079698
+eval accuracy: 0.968277
+eval avg class acc: 0.966347
+Model saved in file: log20/model20.ckpt
+**** EPOCH 131 ****
+----
+Train_mean loss: 0.082159
+Train_accuracy: 0.966394
+----
+eval mean loss: 0.063606
+eval accuracy: 0.973814
+eval avg class acc: 0.971441
+**** EPOCH 132 ****
+----
+Train_mean loss: 0.067853
+Train_accuracy: 0.972575
+----
+eval mean loss: 0.061776
+eval accuracy: 0.974652
+eval avg class acc: 0.973408
+**** EPOCH 133 ****
+----
+Train_mean loss: 0.064888
+Train_accuracy: 0.973566
+----
+eval mean loss: 0.060917
+eval accuracy: 0.974665
+eval avg class acc: 0.972060
+**** EPOCH 134 ****
+----
+Train_mean loss: 0.063087
+Train_accuracy: 0.974119
+----
+eval mean loss: 0.053320
+eval accuracy: 0.978110
+eval avg class acc: 0.978636
+**** EPOCH 135 ****
+----
+Train_mean loss: 0.060608
+Train_accuracy: 0.975139
+----
+eval mean loss: 0.061145
+eval accuracy: 0.974732
+eval avg class acc: 0.974080
+**** EPOCH 136 ****
+----
+Train_mean loss: 0.061469
+Train_accuracy: 0.974792
+----
+eval mean loss: 0.056929
+eval accuracy: 0.976549
+eval avg class acc: 0.975761
+**** EPOCH 137 ****
+----
+Train_mean loss: 0.059197
+Train_accuracy: 0.976004
+----
+eval mean loss: 0.068478
+eval accuracy: 0.971357
+eval avg class acc: 0.967204
+**** EPOCH 138 ****
+----
+Train_mean loss: 0.060517
+Train_accuracy: 0.975198
+----
+eval mean loss: 0.051079
+eval accuracy: 0.978990
+eval avg class acc: 0.977983
+**** EPOCH 139 ****
+----
+Train_mean loss: 0.060059
+Train_accuracy: 0.975540
+----
+eval mean loss: 0.075825
+eval accuracy: 0.968568
+eval avg class acc: 0.969157
+**** EPOCH 140 ****
+----
+Train_mean loss: 0.076742
+Train_accuracy: 0.969444
+----
+eval mean loss: 0.068395
+eval accuracy: 0.972995
+eval avg class acc: 0.972401
+Model saved in file: log20/model20.ckpt
+**** EPOCH 141 ****
+----
+Train_mean loss: 0.071024
+Train_accuracy: 0.970858
+----
+eval mean loss: 0.062875
+eval accuracy: 0.974658
+eval avg class acc: 0.972799
+**** EPOCH 142 ****
+----
+Train_mean loss: 0.059459
+Train_accuracy: 0.975970
+----
+eval mean loss: 0.054621
+eval accuracy: 0.977729
+eval avg class acc: 0.976399
+**** EPOCH 143 ****
+----
+Train_mean loss: 0.057529
+Train_accuracy: 0.976455
+----
+eval mean loss: 0.054803
+eval accuracy: 0.977294
+eval avg class acc: 0.974578
+**** EPOCH 144 ****
+----
+Train_mean loss: 0.056825
+Train_accuracy: 0.976722
+----
+eval mean loss: 0.047700
+eval accuracy: 0.980634
+eval avg class acc: 0.979724
+**** EPOCH 145 ****
+----
+Train_mean loss: 0.054792
+Train_accuracy: 0.977710
+----
+eval mean loss: 0.052374
+eval accuracy: 0.978463
+eval avg class acc: 0.976741
+**** EPOCH 146 ****
+----
+Train_mean loss: 0.054873
+Train_accuracy: 0.977606
+----
+eval mean loss: 0.048782
+eval accuracy: 0.979754
+eval avg class acc: 0.978496
+**** EPOCH 147 ****
+----
+Train_mean loss: 0.054132
+Train_accuracy: 0.977893
+----
+eval mean loss: 0.049834
+eval accuracy: 0.979544
+eval avg class acc: 0.977697
+**** EPOCH 148 ****
+----
+Train_mean loss: 0.055052
+Train_accuracy: 0.977544
+----
+eval mean loss: 0.061357
+eval accuracy: 0.974829
+eval avg class acc: 0.974482
+**** EPOCH 149 ****
+----
+Train_mean loss: 0.052804
+Train_accuracy: 0.978486
+----
+eval mean loss: 0.048789
+eval accuracy: 0.979901
+eval avg class acc: 0.978510
+**** EPOCH 150 ****
+----
+Train_mean loss: 0.053063
+Train_accuracy: 0.978515
+----
+eval mean loss: 0.044963
+eval accuracy: 0.981548
+eval avg class acc: 0.981339
+Model saved in file: log20/model20.ckpt
+**** EPOCH 151 ****
+----
+Train_mean loss: 0.051484
+Train_accuracy: 0.979114
+----
+eval mean loss: 0.116430
+eval accuracy: 0.955161
+eval avg class acc: 0.955036
+**** EPOCH 152 ****
+----
+Train_mean loss: 0.052216
+Train_accuracy: 0.978626
+----
+eval mean loss: 0.049195
+eval accuracy: 0.979838
+eval avg class acc: 0.979560
+**** EPOCH 153 ****
+----
+Train_mean loss: 0.051818
+Train_accuracy: 0.978829
+----
+eval mean loss: 0.048450
+eval accuracy: 0.980122
+eval avg class acc: 0.978148
+**** EPOCH 154 ****
+----
+Train_mean loss: 0.051696
+Train_accuracy: 0.978698
+----
+eval mean loss: 0.044583
+eval accuracy: 0.981727
+eval avg class acc: 0.981615
+**** EPOCH 155 ****
+----
+Train_mean loss: 0.051442
+Train_accuracy: 0.979041
+----
+eval mean loss: 0.061311
+eval accuracy: 0.974869
+eval avg class acc: 0.975858
+**** EPOCH 156 ****
+----
+Train_mean loss: 0.051142
+Train_accuracy: 0.979220
+----
+eval mean loss: 0.046196
+eval accuracy: 0.980970
+eval avg class acc: 0.979798
+**** EPOCH 157 ****
+----
+Train_mean loss: 0.051506
+Train_accuracy: 0.979046
+----
+eval mean loss: 0.047010
+eval accuracy: 0.980622
+eval avg class acc: 0.978785
+**** EPOCH 158 ****
+----
+Train_mean loss: 0.051100
+Train_accuracy: 0.979153
+----
+eval mean loss: 0.045101
+eval accuracy: 0.981586
+eval avg class acc: 0.981374
+**** EPOCH 159 ****
+----
+Train_mean loss: 0.049997
+Train_accuracy: 0.979770
+----
+eval mean loss: 0.049144
+eval accuracy: 0.979818
+eval avg class acc: 0.980608
+**** EPOCH 160 ****
+----
+Train_mean loss: 0.053291
+Train_accuracy: 0.978291
+----
+eval mean loss: 0.053662
+eval accuracy: 0.978378
+eval avg class acc: 0.978730
+Model saved in file: log20/model20.ckpt
+**** EPOCH 161 ****
+----
+Train_mean loss: 0.066313
+Train_accuracy: 0.973682
+----
+eval mean loss: 0.056661
+eval accuracy: 0.977337
+eval avg class acc: 0.976882
+**** EPOCH 162 ****
+----
+Train_mean loss: 0.056843
+Train_accuracy: 0.977095
+----
+eval mean loss: 0.049491
+eval accuracy: 0.979871
+eval avg class acc: 0.978553
+**** EPOCH 163 ****
+----
+Train_mean loss: 0.052776
+Train_accuracy: 0.978509
+----
+eval mean loss: 0.047187
+eval accuracy: 0.980882
+eval avg class acc: 0.980110
+**** EPOCH 164 ****
+----
+Train_mean loss: 0.052289
+Train_accuracy: 0.978758
+----
+eval mean loss: 0.047177
+eval accuracy: 0.980662
+eval avg class acc: 0.978498
+**** EPOCH 165 ****
+----
+Train_mean loss: 0.052881
+Train_accuracy: 0.978482
+----
+eval mean loss: 0.045334
+eval accuracy: 0.981582
+eval avg class acc: 0.980878
+**** EPOCH 166 ****
+----
+Train_mean loss: 0.049918
+Train_accuracy: 0.979673
+----
+eval mean loss: 0.047705
+eval accuracy: 0.980909
+eval avg class acc: 0.980742
+**** EPOCH 167 ****
+----
+Train_mean loss: 0.050572
+Train_accuracy: 0.979642
+----
+eval mean loss: 0.042864
+eval accuracy: 0.982468
+eval avg class acc: 0.982220
+**** EPOCH 168 ****
+----
+Train_mean loss: 0.051692
+Train_accuracy: 0.978910
+----
+eval mean loss: 0.054219
+eval accuracy: 0.977632
+eval avg class acc: 0.974774
+**** EPOCH 169 ****
+----
+Train_mean loss: 0.053455
+Train_accuracy: 0.978185
+----
+eval mean loss: 0.045419
+eval accuracy: 0.981510
+eval avg class acc: 0.980909
+**** EPOCH 170 ****
+----
+Train_mean loss: 0.054852
+Train_accuracy: 0.977886
+----
+eval mean loss: 0.046239
+eval accuracy: 0.980990
+eval avg class acc: 0.980840
+Model saved in file: log20/model20.ckpt
+**** EPOCH 171 ****
+----
+Train_mean loss: 0.049825
+Train_accuracy: 0.979568
+----
+eval mean loss: 0.041137
+eval accuracy: 0.983200
+eval avg class acc: 0.982040
+**** EPOCH 172 ****
+----
+Train_mean loss: 0.046987
+Train_accuracy: 0.980826
+----
+eval mean loss: 0.046347
+eval accuracy: 0.981103
+eval avg class acc: 0.980426
+**** EPOCH 173 ****
+----
+Train_mean loss: 0.047982
+Train_accuracy: 0.980529
+----
+eval mean loss: 0.073703
+eval accuracy: 0.970773
+eval avg class acc: 0.971819
+**** EPOCH 174 ****
+----
+Train_mean loss: 0.047866
+Train_accuracy: 0.980538
+----
+eval mean loss: 0.041184
+eval accuracy: 0.983256
+eval avg class acc: 0.982293
+**** EPOCH 175 ****
+----
+Train_mean loss: 0.047708
+Train_accuracy: 0.980602
+----
+eval mean loss: 0.040703
+eval accuracy: 0.983199
+eval avg class acc: 0.982968
+**** EPOCH 176 ****
+----
+Train_mean loss: 0.047792
+Train_accuracy: 0.980623
+----
+eval mean loss: 0.042489
+eval accuracy: 0.982810
+eval avg class acc: 0.981612
+**** EPOCH 177 ****
+----
+Train_mean loss: 0.048888
+Train_accuracy: 0.980197
+----
+eval mean loss: 0.050662
+eval accuracy: 0.979293
+eval avg class acc: 0.979363
+**** EPOCH 178 ****
+----
+Train_mean loss: 0.052370
+Train_accuracy: 0.978906
+----
+eval mean loss: 0.045084
+eval accuracy: 0.981292
+eval avg class acc: 0.981381
+**** EPOCH 179 ****
+----
+Train_mean loss: 0.048098
+Train_accuracy: 0.980513
+----
+eval mean loss: 0.041437
+eval accuracy: 0.983057
+eval avg class acc: 0.982540
+**** EPOCH 180 ****
+----
+Train_mean loss: 0.046025
+Train_accuracy: 0.981484
+----
+eval mean loss: 0.053981
+eval accuracy: 0.978009
+eval avg class acc: 0.977424
+Model saved in file: log20/model20.ckpt
+**** EPOCH 181 ****
+----
+Train_mean loss: 0.042059
+Train_accuracy: 0.982825
+----
+eval mean loss: 0.037921
+eval accuracy: 0.984387
+eval avg class acc: 0.983616
+**** EPOCH 182 ****
+----
+Train_mean loss: 0.041981
+Train_accuracy: 0.982857
+----
+eval mean loss: 0.044029
+eval accuracy: 0.981829
+eval avg class acc: 0.980930
+**** EPOCH 183 ****
+----
+Train_mean loss: 0.041720
+Train_accuracy: 0.983145
+----
+eval mean loss: 0.034644
+eval accuracy: 0.986107
+eval avg class acc: 0.985503
+**** EPOCH 184 ****
+----
+Train_mean loss: 0.040604
+Train_accuracy: 0.983505
+----
+eval mean loss: 0.038483
+eval accuracy: 0.984186
+eval avg class acc: 0.983599
+**** EPOCH 185 ****
+----
+Train_mean loss: 0.041248
+Train_accuracy: 0.983209
+----
+eval mean loss: 0.036271
+eval accuracy: 0.985019
+eval avg class acc: 0.984265
+**** EPOCH 186 ****
+----
+Train_mean loss: 0.040575
+Train_accuracy: 0.983456
+----
+eval mean loss: 0.042319
+eval accuracy: 0.982737
+eval avg class acc: 0.981878
+**** EPOCH 187 ****
+----
+Train_mean loss: 0.040992
+Train_accuracy: 0.983378
+----
+eval mean loss: 0.040911
+eval accuracy: 0.983188
+eval avg class acc: 0.982473
+**** EPOCH 188 ****
+----
+Train_mean loss: 0.052487
+Train_accuracy: 0.980479
+----
+eval mean loss: 0.113023
+eval accuracy: 0.958253
+eval avg class acc: 0.955192
+**** EPOCH 189 ****
+----
+Train_mean loss: 0.066282
+Train_accuracy: 0.973725
+----
+eval mean loss: 0.062512
+eval accuracy: 0.974291
+eval avg class acc: 0.972502
+**** EPOCH 190 ****
+----
+Train_mean loss: 0.049557
+Train_accuracy: 0.980045
+----
+eval mean loss: 0.038276
+eval accuracy: 0.984535
+eval avg class acc: 0.983582
+Model saved in file: log20/model20.ckpt
+**** EPOCH 191 ****
+----
+Train_mean loss: 0.043765
+Train_accuracy: 0.982400
+----
+eval mean loss: 0.038608
+eval accuracy: 0.984203
+eval avg class acc: 0.983852
+**** EPOCH 192 ****
+----
+Train_mean loss: 0.043604
+Train_accuracy: 0.982546
+----
+eval mean loss: 0.044813
+eval accuracy: 0.981514
+eval avg class acc: 0.980492
+**** EPOCH 193 ****
+----
+Train_mean loss: 0.041502
+Train_accuracy: 0.983283
+----
+eval mean loss: 0.078225
+eval accuracy: 0.968767
+eval avg class acc: 0.970194
+**** EPOCH 194 ****
+----
+Train_mean loss: 0.040183
+Train_accuracy: 0.983696
+----
+eval mean loss: 0.044319
+eval accuracy: 0.981742
+eval avg class acc: 0.980583
+**** EPOCH 195 ****
+----
+Train_mean loss: 0.039952
+Train_accuracy: 0.983799
+----
+eval mean loss: 0.039177
+eval accuracy: 0.983902
+eval avg class acc: 0.982501
+**** EPOCH 196 ****
+----
+Train_mean loss: 0.039647
+Train_accuracy: 0.983887
+----
+eval mean loss: 0.037301
+eval accuracy: 0.984864
+eval avg class acc: 0.984279
+**** EPOCH 197 ****
+----
+Train_mean loss: 0.039988
+Train_accuracy: 0.983802
+----
+eval mean loss: 0.034936
+eval accuracy: 0.985786
+eval avg class acc: 0.985825
+**** EPOCH 198 ****
+----
+Train_mean loss: 0.040447
+Train_accuracy: 0.983469
+----
+eval mean loss: 0.036373
+eval accuracy: 0.985189
+eval avg class acc: 0.983602
+**** EPOCH 199 ****
+----
+Train_mean loss: 0.040496
+Train_accuracy: 0.983689
+----
+eval mean loss: 0.036221
+eval accuracy: 0.985231
+eval avg class acc: 0.984166
+**** EPOCH 200 ****
+----
+Train_mean loss: 0.038993
+Train_accuracy: 0.984226
+----
+eval mean loss: 0.043525
+eval accuracy: 0.982338
+eval avg class acc: 0.982001
+Model saved in file: log20/model20.ckpt
+**** EPOCH 201 ****
+----
+Train_mean loss: 0.040995
+Train_accuracy: 0.983381
+----
+eval mean loss: 0.036256
+eval accuracy: 0.985425
+eval avg class acc: 0.984976
+**** EPOCH 202 ****
+----
+Train_mean loss: 0.039910
+Train_accuracy: 0.983666
+----
+eval mean loss: 0.036517
+eval accuracy: 0.985088
+eval avg class acc: 0.984825
+**** EPOCH 203 ****
+----
+Train_mean loss: 0.037896
+Train_accuracy: 0.984690
+----
+eval mean loss: 0.034900
+eval accuracy: 0.985878
+eval avg class acc: 0.986137
+**** EPOCH 204 ****
+----
+Train_mean loss: 0.044728
+Train_accuracy: 0.982057
+----
+eval mean loss: 0.075440
+eval accuracy: 0.973336
+eval avg class acc: 0.969802
+**** EPOCH 205 ****
+----
+Train_mean loss: 0.061409
+Train_accuracy: 0.975636
+----
+eval mean loss: 0.057290
+eval accuracy: 0.976704
+eval avg class acc: 0.975586
+**** EPOCH 206 ****
+----
+Train_mean loss: 0.047952
+Train_accuracy: 0.980644
+----
+eval mean loss: 0.036261
+eval accuracy: 0.985408
+eval avg class acc: 0.984620
+**** EPOCH 207 ****
+----
+Train_mean loss: 0.041457
+Train_accuracy: 0.983109
+----
+eval mean loss: 0.036422
+eval accuracy: 0.985195
+eval avg class acc: 0.984980
+**** EPOCH 208 ****
+----
+Train_mean loss: 0.040613
+Train_accuracy: 0.983540
+----
+eval mean loss: 0.038757
+eval accuracy: 0.984307
+eval avg class acc: 0.983901
+**** EPOCH 209 ****
+----
+Train_mean loss: 0.039188
+Train_accuracy: 0.984118
+----
+eval mean loss: 0.033630
+eval accuracy: 0.986510
+eval avg class acc: 0.985573
+**** EPOCH 210 ****
+----
+Train_mean loss: 0.038322
+Train_accuracy: 0.984542
+----
+eval mean loss: 0.033677
+eval accuracy: 0.986218
+eval avg class acc: 0.985773
+Model saved in file: log20/model20.ckpt
+**** EPOCH 211 ****
+----
+Train_mean loss: 0.038575
+Train_accuracy: 0.984304
+----
+eval mean loss: 0.034175
+eval accuracy: 0.986110
+eval avg class acc: 0.985811
+**** EPOCH 212 ****
+----
+Train_mean loss: 0.037350
+Train_accuracy: 0.984951
+----
+eval mean loss: 0.037824
+eval accuracy: 0.984544
+eval avg class acc: 0.984136
+**** EPOCH 213 ****
+----
+Train_mean loss: 0.041605
+Train_accuracy: 0.983281
+----
+eval mean loss: 0.053277
+eval accuracy: 0.977852
+eval avg class acc: 0.977839
+**** EPOCH 214 ****
+----
+Train_mean loss: 0.039735
+Train_accuracy: 0.984046
+----
+eval mean loss: 0.035423
+eval accuracy: 0.985669
+eval avg class acc: 0.984527
+**** EPOCH 215 ****
+----
+Train_mean loss: 0.036934
+Train_accuracy: 0.984985
+----
+eval mean loss: 0.035481
+eval accuracy: 0.985528
+eval avg class acc: 0.985307
+**** EPOCH 216 ****
+----
+Train_mean loss: 0.038135
+Train_accuracy: 0.984566
+----
+eval mean loss: 0.033934
+eval accuracy: 0.986294
+eval avg class acc: 0.985772
+**** EPOCH 217 ****
+----
+Train_mean loss: 0.037212
+Train_accuracy: 0.984872
+----
+eval mean loss: 0.046439
+eval accuracy: 0.980973
+eval avg class acc: 0.980981
+**** EPOCH 218 ****
+----
+Train_mean loss: 0.036413
+Train_accuracy: 0.985168
+----
+eval mean loss: 0.033691
+eval accuracy: 0.986153
+eval avg class acc: 0.984880
+**** EPOCH 219 ****
+----
+Train_mean loss: 0.037342
+Train_accuracy: 0.984904
+----
+eval mean loss: 0.036481
+eval accuracy: 0.984963
+eval avg class acc: 0.984870
+**** EPOCH 220 ****
+----
+Train_mean loss: 0.037542
+Train_accuracy: 0.984716
+----
+eval mean loss: 0.032218
+eval accuracy: 0.986791
+eval avg class acc: 0.986064
+Model saved in file: log20/model20.ckpt
+**** EPOCH 221 ****
+----
+Train_mean loss: 0.038595
+Train_accuracy: 0.984442
+----
+eval mean loss: 0.035842
+eval accuracy: 0.985289
+eval avg class acc: 0.985188
+**** EPOCH 222 ****
+----
+Train_mean loss: 0.037808
+Train_accuracy: 0.984665
+----
+eval mean loss: 0.032358
+eval accuracy: 0.986770
+eval avg class acc: 0.986363
+**** EPOCH 223 ****
+----
+Train_mean loss: 0.037619
+Train_accuracy: 0.984846
+----
+eval mean loss: 0.038774
+eval accuracy: 0.984185
+eval avg class acc: 0.983878
+**** EPOCH 224 ****
+----
+Train_mean loss: 0.037039
+Train_accuracy: 0.985025
+----
+eval mean loss: 0.033279
+eval accuracy: 0.986450
+eval avg class acc: 0.985525
+**** EPOCH 225 ****
+----
+Train_mean loss: 0.036954
+Train_accuracy: 0.985024
+----
+eval mean loss: 0.041419
+eval accuracy: 0.982848
+eval avg class acc: 0.982303
+**** EPOCH 226 ****
+----
+Train_mean loss: 0.036307
+Train_accuracy: 0.985316
+----
+eval mean loss: 0.033423
+eval accuracy: 0.986658
+eval avg class acc: 0.985696
+**** EPOCH 227 ****
+----
+Train_mean loss: 0.037317
+Train_accuracy: 0.984915
+----
+eval mean loss: 0.038731
+eval accuracy: 0.984197
+eval avg class acc: 0.984121
+**** EPOCH 228 ****
+----
+Train_mean loss: 0.035105
+Train_accuracy: 0.985664
+----
+eval mean loss: 0.029721
+eval accuracy: 0.987931
+eval avg class acc: 0.987192
+**** EPOCH 229 ****
+----
+Train_mean loss: 0.036184
+Train_accuracy: 0.985345
+----
+eval mean loss: 0.031776
+eval accuracy: 0.987118
+eval avg class acc: 0.985441
+**** EPOCH 230 ****
+----
+Train_mean loss: 0.036391
+Train_accuracy: 0.985194
+----
+eval mean loss: 0.032356
+eval accuracy: 0.986912
+eval avg class acc: 0.986493
+Model saved in file: log20/model20.ckpt
+**** EPOCH 231 ****
+----
+Train_mean loss: 0.036041
+Train_accuracy: 0.985323
+----
+eval mean loss: 0.034129
+eval accuracy: 0.986137
+eval avg class acc: 0.985671
+**** EPOCH 232 ****
+----
+Train_mean loss: 0.035317
+Train_accuracy: 0.985689
+----
+eval mean loss: 0.030950
+eval accuracy: 0.987415
+eval avg class acc: 0.986534
+**** EPOCH 233 ****
+----
+Train_mean loss: 0.035929
+Train_accuracy: 0.985568
+----
+eval mean loss: 0.031965
+eval accuracy: 0.986951
+eval avg class acc: 0.986918
+**** EPOCH 234 ****
+----
+Train_mean loss: 0.037413
+Train_accuracy: 0.984742
+----
+eval mean loss: 0.048548
+eval accuracy: 0.980321
+eval avg class acc: 0.980595
+**** EPOCH 235 ****
+----
+Train_mean loss: 0.035657
+Train_accuracy: 0.985470
+----
+eval mean loss: 0.031649
+eval accuracy: 0.987116
+eval avg class acc: 0.986125
+**** EPOCH 236 ****
+----
+Train_mean loss: 0.035607
+Train_accuracy: 0.985551
+----
+eval mean loss: 0.035248
+eval accuracy: 0.985847
+eval avg class acc: 0.985736
+**** EPOCH 237 ****
+----
+Train_mean loss: 0.035687
+Train_accuracy: 0.985592
+----
+eval mean loss: 0.030453
+eval accuracy: 0.987669
+eval avg class acc: 0.986247
+**** EPOCH 238 ****
+----
+Train_mean loss: 0.036879
+Train_accuracy: 0.985123
+----
+eval mean loss: 0.030023
+eval accuracy: 0.987814
+eval avg class acc: 0.987261
+**** EPOCH 239 ****
+----
+Train_mean loss: 0.036499
+Train_accuracy: 0.985237
+----
+eval mean loss: 0.033473
+eval accuracy: 0.986371
+eval avg class acc: 0.986252
+**** EPOCH 240 ****
+----
+Train_mean loss: 0.035856
+Train_accuracy: 0.985472
+----
+eval mean loss: 0.043814
+eval accuracy: 0.982338
+eval avg class acc: 0.981692
+Model saved in file: log20/model20.ckpt
+**** EPOCH 241 ****
+----
+Train_mean loss: 0.035166
+Train_accuracy: 0.985778
+----
+eval mean loss: 0.028625
+eval accuracy: 0.988334
+eval avg class acc: 0.988238
+**** EPOCH 242 ****
+----
+Train_mean loss: 0.039565
+Train_accuracy: 0.984194
+----
+eval mean loss: 0.059462
+eval accuracy: 0.975565
+eval avg class acc: 0.975601
+**** EPOCH 243 ****
+----
+Train_mean loss: 0.075063
+Train_accuracy: 0.971854
+----
+eval mean loss: 0.057791
+eval accuracy: 0.977262
+eval avg class acc: 0.975737
+**** EPOCH 244 ****
+----
+Train_mean loss: 0.052626
+Train_accuracy: 0.978783
+----
+eval mean loss: 0.036887
+eval accuracy: 0.985289
+eval avg class acc: 0.984839
+**** EPOCH 245 ****
+----
+Train_mean loss: 0.040709
+Train_accuracy: 0.983552
+----
+eval mean loss: 0.033737
+eval accuracy: 0.986207
+eval avg class acc: 0.985221
+**** EPOCH 246 ****
+----
+Train_mean loss: 0.038548
+Train_accuracy: 0.984442
+----
+eval mean loss: 0.040299
+eval accuracy: 0.983328
+eval avg class acc: 0.981824
+**** EPOCH 247 ****
+----
+Train_mean loss: 0.037186
+Train_accuracy: 0.984959
+----
+eval mean loss: 0.032206
+eval accuracy: 0.986890
+eval avg class acc: 0.986337
+**** EPOCH 248 ****
+----
+Train_mean loss: 0.037000
+Train_accuracy: 0.984999
+----
+eval mean loss: 0.029870
+eval accuracy: 0.988053
+eval avg class acc: 0.987707
+**** EPOCH 249 ****
+----
+Train_mean loss: 0.035879
+Train_accuracy: 0.985521
+----
+eval mean loss: 0.036884
+eval accuracy: 0.985087
+eval avg class acc: 0.984892
+**** EPOCH 250 ****
+----
+Train_mean loss: 0.035517
+Train_accuracy: 0.985603
+----
+eval mean loss: 0.029556
+eval accuracy: 0.988122
+eval avg class acc: 0.987447
+Model saved in file: log20/model20.ckpt
+**** EPOCH 251 ****
+----
+Train_mean loss: 0.034140
+Train_accuracy: 0.986176
+----
+eval mean loss: 0.031286
+eval accuracy: 0.987223
+eval avg class acc: 0.986845
+**** EPOCH 252 ****
+----
+Train_mean loss: 0.035430
+Train_accuracy: 0.985649
+----
+eval mean loss: 0.030509
+eval accuracy: 0.987769
+eval avg class acc: 0.987424
+**** EPOCH 253 ****
+----
+Train_mean loss: 0.035018
+Train_accuracy: 0.985891
+----
+eval mean loss: 0.034528
+eval accuracy: 0.985872
+eval avg class acc: 0.984805
+**** EPOCH 254 ****
+----
+Train_mean loss: 0.034819
+Train_accuracy: 0.986005
+----
+eval mean loss: 0.035549
+eval accuracy: 0.985402
+eval avg class acc: 0.984350
+**** EPOCH 255 ****
+----
+Train_mean loss: 0.033690
+Train_accuracy: 0.986376
+----
+eval mean loss: 0.029079
+eval accuracy: 0.988249
+eval avg class acc: 0.988110
+**** EPOCH 256 ****
+----
+Train_mean loss: 0.032392
+Train_accuracy: 0.986846
+----
+eval mean loss: 0.029874
+eval accuracy: 0.987852
+eval avg class acc: 0.987484
+**** EPOCH 257 ****
+----
+Train_mean loss: 0.066366
+Train_accuracy: 0.977383
+----
+eval mean loss: 0.111679
+eval accuracy: 0.960470
+eval avg class acc: 0.958756
+**** EPOCH 258 ****
+----
+Train_mean loss: 0.076252
+Train_accuracy: 0.970150
+----
+eval mean loss: 0.053273
+eval accuracy: 0.978748
+eval avg class acc: 0.976726
+**** EPOCH 259 ****
+----
+Train_mean loss: 0.053736
+Train_accuracy: 0.978468
+----
+eval mean loss: 0.040163
+eval accuracy: 0.984136
+eval avg class acc: 0.983203
+**** EPOCH 260 ****
+----
+Train_mean loss: 0.044212
+Train_accuracy: 0.982273
+----
+eval mean loss: 0.045766
+eval accuracy: 0.981093
+eval avg class acc: 0.980514
+Model saved in file: log20/model20.ckpt
+**** EPOCH 261 ****
+----
+Train_mean loss: 0.040715
+Train_accuracy: 0.983677
+----
+eval mean loss: 0.037360
+eval accuracy: 0.984788
+eval avg class acc: 0.983729
+**** EPOCH 262 ****
+----
+Train_mean loss: 0.037303
+Train_accuracy: 0.985039
+----
+eval mean loss: 0.036517
+eval accuracy: 0.985090
+eval avg class acc: 0.984162
+**** EPOCH 263 ****
+----
+Train_mean loss: 0.036472
+Train_accuracy: 0.985460
+----
+eval mean loss: 0.040097
+eval accuracy: 0.983814
+eval avg class acc: 0.982517
+**** EPOCH 264 ****
+----
+Train_mean loss: 0.036607
+Train_accuracy: 0.985307
+----
+eval mean loss: 0.030921
+eval accuracy: 0.987385
+eval avg class acc: 0.986545
+**** EPOCH 265 ****
+----
+Train_mean loss: 0.035757
+Train_accuracy: 0.985701
+----
+eval mean loss: 0.049630
+eval accuracy: 0.979901
+eval avg class acc: 0.980082
+**** EPOCH 266 ****
+----
+Train_mean loss: 0.035335
+Train_accuracy: 0.985805
+----
+eval mean loss: 0.028540
+eval accuracy: 0.988661
+eval avg class acc: 0.987943
+**** EPOCH 267 ****
+----
+Train_mean loss: 0.033841
+Train_accuracy: 0.986335
+----
+eval mean loss: 0.029202
+eval accuracy: 0.988162
+eval avg class acc: 0.987879
+**** EPOCH 268 ****
+----
+Train_mean loss: 0.034343
+Train_accuracy: 0.986230
+----
+eval mean loss: 0.031849
+eval accuracy: 0.986993
+eval avg class acc: 0.986223
+**** EPOCH 269 ****
+----
+Train_mean loss: 0.033616
+Train_accuracy: 0.986547
+----
+eval mean loss: 0.036021
+eval accuracy: 0.985132
+eval avg class acc: 0.984160
+**** EPOCH 270 ****
+----
+Train_mean loss: 0.034380
+Train_accuracy: 0.986067
+----
+eval mean loss: 0.035222
+eval accuracy: 0.985663
+eval avg class acc: 0.984861
+Model saved in file: log20/model20.ckpt
+**** EPOCH 271 ****
+----
+Train_mean loss: 0.033735
+Train_accuracy: 0.986411
+----
+eval mean loss: 0.038224
+eval accuracy: 0.984326
+eval avg class acc: 0.983886
+**** EPOCH 272 ****
+----
+Train_mean loss: 0.033202
+Train_accuracy: 0.986685
+----
+eval mean loss: 0.030022
+eval accuracy: 0.987864
+eval avg class acc: 0.987700
+**** EPOCH 273 ****
+----
+Train_mean loss: 0.032643
+Train_accuracy: 0.986788
+----
+eval mean loss: 0.028074
+eval accuracy: 0.988648
+eval avg class acc: 0.988187
+**** EPOCH 274 ****
+----
+Train_mean loss: 0.032897
+Train_accuracy: 0.986766
+----
+eval mean loss: 0.027506
+eval accuracy: 0.988930
+eval avg class acc: 0.988430
+**** EPOCH 275 ****
+----
+Train_mean loss: 0.032456
+Train_accuracy: 0.986963
+----
+eval mean loss: 0.029544
+eval accuracy: 0.987984
+eval avg class acc: 0.987205
+**** EPOCH 276 ****
+----
+Train_mean loss: 0.032064
+Train_accuracy: 0.987132
+----
+eval mean loss: 0.027746
+eval accuracy: 0.988730
+eval avg class acc: 0.988182
+**** EPOCH 277 ****
+----
+Train_mean loss: 0.032364
+Train_accuracy: 0.986965
+----
+eval mean loss: 0.032480
+eval accuracy: 0.986823
+eval avg class acc: 0.986439
+**** EPOCH 278 ****
+----
+Train_mean loss: 0.031173
+Train_accuracy: 0.987398
+----
+eval mean loss: 0.030137
+eval accuracy: 0.987694
+eval avg class acc: 0.987480
+**** EPOCH 279 ****
+----
+Train_mean loss: 0.035597
+Train_accuracy: 0.986003
+----
+eval mean loss: 0.055032
+eval accuracy: 0.978490
+eval avg class acc: 0.979524
+**** EPOCH 280 ****
+----
+Train_mean loss: 0.036464
+Train_accuracy: 0.985439
+----
+eval mean loss: 0.034375
+eval accuracy: 0.985903
+eval avg class acc: 0.984705
+Model saved in file: log20/model20.ckpt
+**** EPOCH 281 ****
+----
+Train_mean loss: 0.033309
+Train_accuracy: 0.986538
+----
+eval mean loss: 0.027579
+eval accuracy: 0.988672
+eval avg class acc: 0.988530
+**** EPOCH 282 ****
+----
+Train_mean loss: 0.031874
+Train_accuracy: 0.987067
+----
+eval mean loss: 0.031078
+eval accuracy: 0.987273
+eval avg class acc: 0.986728
+**** EPOCH 283 ****
+----
+Train_mean loss: 0.031459
+Train_accuracy: 0.987226
+----
+eval mean loss: 0.028638
+eval accuracy: 0.988323
+eval avg class acc: 0.988085
+**** EPOCH 284 ****
+----
+Train_mean loss: 0.031359
+Train_accuracy: 0.987331
+----
+eval mean loss: 0.036671
+eval accuracy: 0.984903
+eval avg class acc: 0.984346
+**** EPOCH 285 ****
+----
+Train_mean loss: 0.032327
+Train_accuracy: 0.987011
+----
+eval mean loss: 0.028602
+eval accuracy: 0.988715
+eval avg class acc: 0.987968
+**** EPOCH 286 ****
+----
+Train_mean loss: 0.031937
+Train_accuracy: 0.987051
+----
+eval mean loss: 0.028439
+eval accuracy: 0.988562
+eval avg class acc: 0.987522
+**** EPOCH 287 ****
+----
+Train_mean loss: 0.031258
+Train_accuracy: 0.987414
+----
+eval mean loss: 0.027394
+eval accuracy: 0.988756
+eval avg class acc: 0.988400
+**** EPOCH 288 ****
+----
+Train_mean loss: 0.031488
+Train_accuracy: 0.987213
+----
+eval mean loss: 0.029837
+eval accuracy: 0.987852
+eval avg class acc: 0.987251
+**** EPOCH 289 ****
+----
+Train_mean loss: 0.032234
+Train_accuracy: 0.987028
+----
+eval mean loss: 0.032081
+eval accuracy: 0.986897
+eval avg class acc: 0.986454
+**** EPOCH 290 ****
+----
+Train_mean loss: 0.030611
+Train_accuracy: 0.987611
+----
+eval mean loss: 0.025182
+eval accuracy: 0.989860
+eval avg class acc: 0.988982
+Model saved in file: log20/model20.ckpt
+**** EPOCH 291 ****
+----
+Train_mean loss: 0.031802
+Train_accuracy: 0.987211
+----
+eval mean loss: 0.027797
+eval accuracy: 0.988717
+eval avg class acc: 0.988072
+**** EPOCH 292 ****
+----
+Train_mean loss: 0.031323
+Train_accuracy: 0.987456
+----
+eval mean loss: 0.027795
+eval accuracy: 0.988733
+eval avg class acc: 0.988079
+**** EPOCH 293 ****
+----
+Train_mean loss: 0.030566
+Train_accuracy: 0.987605
+----
+eval mean loss: 0.038523
+eval accuracy: 0.984273
+eval avg class acc: 0.983280
+**** EPOCH 294 ****
+----
+Train_mean loss: 0.030532
+Train_accuracy: 0.987590
+----
+eval mean loss: 0.037702
+eval accuracy: 0.984578
+eval avg class acc: 0.984316
+**** EPOCH 295 ****
+----
+Train_mean loss: 0.030861
+Train_accuracy: 0.987528
+----
+eval mean loss: 0.028142
+eval accuracy: 0.988635
+eval avg class acc: 0.987813
+**** EPOCH 296 ****
+----
+Train_mean loss: 0.031569
+Train_accuracy: 0.987233
+----
+eval mean loss: 0.028759
+eval accuracy: 0.988254
+eval avg class acc: 0.987905
+**** EPOCH 297 ****
+----
+Train_mean loss: 0.031554
+Train_accuracy: 0.987337
+----
+eval mean loss: 0.026653
+eval accuracy: 0.989322
+eval avg class acc: 0.988642
+**** EPOCH 298 ****
+----
+Train_mean loss: 0.032031
+Train_accuracy: 0.986999
+----
+eval mean loss: 0.027050
+eval accuracy: 0.989154
+eval avg class acc: 0.988818
+**** EPOCH 299 ****
+----
+Train_mean loss: 0.030513
+Train_accuracy: 0.987670
+----
+eval mean loss: 0.027570
+eval accuracy: 0.988782
+eval avg class acc: 0.988536
+**** EPOCH 300 ****
+----
+Train_mean loss: 0.031150
+Train_accuracy: 0.987417
+----
+eval mean loss: 0.029639
+eval accuracy: 0.987933
+eval avg class acc: 0.987413
+Model saved in file: log20/model20.ckpt
+**** EPOCH 301 ****
+----
+Train_mean loss: 0.030188
+Train_accuracy: 0.987821
+----
+eval mean loss: 0.028363
+eval accuracy: 0.988506
+eval avg class acc: 0.988421
+**** EPOCH 302 ****
+----
+Train_mean loss: 0.029291
+Train_accuracy: 0.988259
+----
+eval mean loss: 0.031052
+eval accuracy: 0.987323
+eval avg class acc: 0.986957
+**** EPOCH 303 ****
+----
+Train_mean loss: 0.029708
+Train_accuracy: 0.988060
+----
+eval mean loss: 0.026917
+eval accuracy: 0.989034
+eval avg class acc: 0.988360
+**** EPOCH 304 ****
+----
+Train_mean loss: 0.030580
+Train_accuracy: 0.987510
+----
+eval mean loss: 0.026647
+eval accuracy: 0.989191
+eval avg class acc: 0.988344
+**** EPOCH 305 ****
+----
+Train_mean loss: 0.030856
+Train_accuracy: 0.987592
+----
+eval mean loss: 0.027538
+eval accuracy: 0.988856
+eval avg class acc: 0.988240
+**** EPOCH 306 ****
+----
+Train_mean loss: 0.030136
+Train_accuracy: 0.987839
+----
+eval mean loss: 0.036503
+eval accuracy: 0.985143
+eval avg class acc: 0.984428
+**** EPOCH 307 ****
+----
+Train_mean loss: 0.028703
+Train_accuracy: 0.988423
+----
+eval mean loss: 0.023241
+eval accuracy: 0.990593
+eval avg class acc: 0.990189
+**** EPOCH 308 ****
+----
+Train_mean loss: 0.030080
+Train_accuracy: 0.987825
+----
+eval mean loss: 0.030185
+eval accuracy: 0.987730
+eval avg class acc: 0.987106
+**** EPOCH 309 ****
+----
+Train_mean loss: 0.029478
+Train_accuracy: 0.988073
+----
+eval mean loss: 0.027385
+eval accuracy: 0.988836
+eval avg class acc: 0.988029
+**** EPOCH 310 ****
+----
+Train_mean loss: 0.067522
+Train_accuracy: 0.974779
+----
+eval mean loss: 0.112365
+eval accuracy: 0.956529
+eval avg class acc: 0.954578
+Model saved in file: log20/model20.ckpt
+**** EPOCH 311 ****
+----
+Train_mean loss: 0.075772
+Train_accuracy: 0.970378
+----
+eval mean loss: 0.048409
+eval accuracy: 0.981025
+eval avg class acc: 0.980044
+**** EPOCH 312 ****
+----
+Train_mean loss: 0.045768
+Train_accuracy: 0.981867
+----
+eval mean loss: 0.039683
+eval accuracy: 0.984129
+eval avg class acc: 0.983739
+**** EPOCH 313 ****
+----
+Train_mean loss: 0.037530
+Train_accuracy: 0.984885
+----
+eval mean loss: 0.032268
+eval accuracy: 0.987061
+eval avg class acc: 0.986633
+**** EPOCH 314 ****
+----
+Train_mean loss: 0.035890
+Train_accuracy: 0.985701
+----
+eval mean loss: 0.028044
+eval accuracy: 0.988780
+eval avg class acc: 0.988293
+**** EPOCH 315 ****
+----
+Train_mean loss: 0.032867
+Train_accuracy: 0.986771
+----
+eval mean loss: 0.031739
+eval accuracy: 0.987187
+eval avg class acc: 0.986494
+**** EPOCH 316 ****
+----
+Train_mean loss: 0.032361
+Train_accuracy: 0.986953
+----
+eval mean loss: 0.029245
+eval accuracy: 0.988190
+eval avg class acc: 0.987447
+**** EPOCH 317 ****
+----
+Train_mean loss: 0.032226
+Train_accuracy: 0.987078
+----
+eval mean loss: 0.028198
+eval accuracy: 0.988542
+eval avg class acc: 0.987416
+**** EPOCH 318 ****
+----
+Train_mean loss: 0.031960
+Train_accuracy: 0.987110
+----
+eval mean loss: 0.026988
+eval accuracy: 0.989046
+eval avg class acc: 0.988513
+**** EPOCH 319 ****
+----
+Train_mean loss: 0.030133
+Train_accuracy: 0.987887
+----
+eval mean loss: 0.025657
+eval accuracy: 0.989698
+eval avg class acc: 0.988982
+**** EPOCH 320 ****
+----
+Train_mean loss: 0.030510
+Train_accuracy: 0.987785
+----
+eval mean loss: 0.025582
+eval accuracy: 0.989720
+eval avg class acc: 0.989028
+Model saved in file: log20/model20.ckpt
+**** EPOCH 321 ****
+----
+Train_mean loss: 0.029888
+Train_accuracy: 0.988046
+----
+eval mean loss: 0.031842
+eval accuracy: 0.987110
+eval avg class acc: 0.986262
+**** EPOCH 322 ****
+----
+Train_mean loss: 0.029711
+Train_accuracy: 0.988027
+----
+eval mean loss: 0.028578
+eval accuracy: 0.988396
+eval avg class acc: 0.987477
+**** EPOCH 323 ****
+----
+Train_mean loss: 0.029962
+Train_accuracy: 0.987879
+----
+eval mean loss: 0.036408
+eval accuracy: 0.985131
+eval avg class acc: 0.984226
+**** EPOCH 324 ****
+----
+Train_mean loss: 0.029864
+Train_accuracy: 0.988048
+----
+eval mean loss: 0.026566
+eval accuracy: 0.989296
+eval avg class acc: 0.989050
+**** EPOCH 325 ****
+----
+Train_mean loss: 0.029334
+Train_accuracy: 0.988162
+----
+eval mean loss: 0.025768
+eval accuracy: 0.989531
+eval avg class acc: 0.989008
+**** EPOCH 326 ****
+----
+Train_mean loss: 0.028649
+Train_accuracy: 0.988436
+----
+eval mean loss: 0.029710
+eval accuracy: 0.987815
+eval avg class acc: 0.987314
+**** EPOCH 327 ****
+----
+Train_mean loss: 0.030730
+Train_accuracy: 0.987545
+----
+eval mean loss: 0.028463
+eval accuracy: 0.988494
+eval avg class acc: 0.988118
+**** EPOCH 328 ****
+----
+Train_mean loss: 0.029225
+Train_accuracy: 0.988232
+----
+eval mean loss: 0.024656
+eval accuracy: 0.990028
+eval avg class acc: 0.989601
+**** EPOCH 329 ****
+----
+Train_mean loss: 0.029387
+Train_accuracy: 0.988253
+----
+eval mean loss: 0.034993
+eval accuracy: 0.985730
+eval avg class acc: 0.985502
+**** EPOCH 330 ****
+----
+Train_mean loss: 0.029579
+Train_accuracy: 0.988144
+----
+eval mean loss: 0.023658
+eval accuracy: 0.990411
+eval avg class acc: 0.990006
+Model saved in file: log20/model20.ckpt
+**** EPOCH 331 ****
+----
+Train_mean loss: 0.029122
+Train_accuracy: 0.988194
+----
+eval mean loss: 0.029166
+eval accuracy: 0.988126
+eval avg class acc: 0.987307
+**** EPOCH 332 ****
+----
+Train_mean loss: 0.028452
+Train_accuracy: 0.988427
+----
+eval mean loss: 0.026772
+eval accuracy: 0.989046
+eval avg class acc: 0.988108
+**** EPOCH 333 ****
+----
+Train_mean loss: 0.029250
+Train_accuracy: 0.988260
+----
+eval mean loss: 0.039436
+eval accuracy: 0.983988
+eval avg class acc: 0.984341
+**** EPOCH 334 ****
+----
+Train_mean loss: 0.028675
+Train_accuracy: 0.988458
+----
+eval mean loss: 0.026094
+eval accuracy: 0.989526
+eval avg class acc: 0.989116
+**** EPOCH 335 ****
+----
+Train_mean loss: 0.028917
+Train_accuracy: 0.988325
+----
+eval mean loss: 0.025397
+eval accuracy: 0.989809
+eval avg class acc: 0.989307
+**** EPOCH 336 ****
+----
+Train_mean loss: 0.028967
+Train_accuracy: 0.988256
+----
+eval mean loss: 0.025870
+eval accuracy: 0.989534
+eval avg class acc: 0.988987
+**** EPOCH 337 ****
+----
+Train_mean loss: 0.028421
+Train_accuracy: 0.988493
+----
+eval mean loss: 0.025498
+eval accuracy: 0.989668
+eval avg class acc: 0.989154
+**** EPOCH 338 ****
+----
+Train_mean loss: 0.028327
+Train_accuracy: 0.988548
+----
+eval mean loss: 0.024733
+eval accuracy: 0.990166
+eval avg class acc: 0.989766
+**** EPOCH 339 ****
+----
+Train_mean loss: 0.028163
+Train_accuracy: 0.988570
+----
+eval mean loss: 0.033969
+eval accuracy: 0.986186
+eval avg class acc: 0.985930
+**** EPOCH 340 ****
+----
+Train_mean loss: 0.028924
+Train_accuracy: 0.988327
+----
+eval mean loss: 0.035804
+eval accuracy: 0.985603
+eval avg class acc: 0.985009
+Model saved in file: log20/model20.ckpt
+**** EPOCH 341 ****
+----
+Train_mean loss: 0.028796
+Train_accuracy: 0.988352
+----
+eval mean loss: 0.024260
+eval accuracy: 0.990185
+eval avg class acc: 0.990015
+**** EPOCH 342 ****
+----
+Train_mean loss: 0.029265
+Train_accuracy: 0.988292
+----
+eval mean loss: 0.026735
+eval accuracy: 0.989286
+eval avg class acc: 0.988951
+**** EPOCH 343 ****
+----
+Train_mean loss: 0.028535
+Train_accuracy: 0.988516
+----
+eval mean loss: 0.023562
+eval accuracy: 0.990417
+eval avg class acc: 0.989950
+**** EPOCH 344 ****
+----
+Train_mean loss: 0.028039
+Train_accuracy: 0.988655
+----
+eval mean loss: 0.021259
+eval accuracy: 0.991367
+eval avg class acc: 0.991267
+**** EPOCH 345 ****
+----
+Train_mean loss: 0.027987
+Train_accuracy: 0.988663
+----
+eval mean loss: 0.023317
+eval accuracy: 0.990539
+eval avg class acc: 0.989994
+**** EPOCH 346 ****
+----
+Train_mean loss: 0.034010
+Train_accuracy: 0.986970
+----
+eval mean loss: 0.035499
+eval accuracy: 0.985950
+eval avg class acc: 0.984651
+**** EPOCH 347 ****
+----
+Train_mean loss: 0.038519
+Train_accuracy: 0.984499
+----
+eval mean loss: 0.033793
+eval accuracy: 0.986465
+eval avg class acc: 0.985960
+**** EPOCH 348 ****
+----
+Train_mean loss: 0.032911
+Train_accuracy: 0.986905
+----
+eval mean loss: 0.026306
+eval accuracy: 0.989537
+eval avg class acc: 0.988608
+**** EPOCH 349 ****
+----
+Train_mean loss: 0.029563
+Train_accuracy: 0.988070
+----
+eval mean loss: 0.026315
+eval accuracy: 0.989295
+eval avg class acc: 0.988526
+**** EPOCH 350 ****
+----
+Train_mean loss: 0.030320
+Train_accuracy: 0.987919
+----
+eval mean loss: 0.029862
+eval accuracy: 0.987873
+eval avg class acc: 0.986880
+Model saved in file: log20/model20.ckpt
+**** EPOCH 351 ****
+----
+Train_mean loss: 0.028872
+Train_accuracy: 0.988376
+----
+eval mean loss: 0.022972
+eval accuracy: 0.990850
+eval avg class acc: 0.990175
+**** EPOCH 352 ****
+----
+Train_mean loss: 0.033310
+Train_accuracy: 0.986811
+----
+eval mean loss: 0.026722
+eval accuracy: 0.989338
+eval avg class acc: 0.988952
+**** EPOCH 353 ****
+----
+Train_mean loss: 0.030413
+Train_accuracy: 0.987777
+----
+eval mean loss: 0.031658
+eval accuracy: 0.986992
+eval avg class acc: 0.986032
+**** EPOCH 354 ****
+----
+Train_mean loss: 0.028819
+Train_accuracy: 0.988367
+----
+eval mean loss: 0.025534
+eval accuracy: 0.989695
+eval avg class acc: 0.989085
+**** EPOCH 355 ****
+----
+Train_mean loss: 0.029759
+Train_accuracy: 0.988036
+----
+eval mean loss: 0.025199
+eval accuracy: 0.989858
+eval avg class acc: 0.989841
+**** EPOCH 356 ****
+----
+Train_mean loss: 0.027686
+Train_accuracy: 0.988814
+----
+eval mean loss: 0.025583
+eval accuracy: 0.989603
+eval avg class acc: 0.989232
+**** EPOCH 357 ****
+----
+Train_mean loss: 0.027942
+Train_accuracy: 0.988669
+----
+eval mean loss: 0.025804
+eval accuracy: 0.989656
+eval avg class acc: 0.988968
+**** EPOCH 358 ****
+----
+Train_mean loss: 0.027159
+Train_accuracy: 0.989084
+----
+eval mean loss: 0.023812
+eval accuracy: 0.990310
+eval avg class acc: 0.989613
+**** EPOCH 359 ****
+----
+Train_mean loss: 0.027205
+Train_accuracy: 0.989070
+----
+eval mean loss: 0.020666
+eval accuracy: 0.991802
+eval avg class acc: 0.991557
+**** EPOCH 360 ****
+----
+Train_mean loss: 0.026492
+Train_accuracy: 0.989335
+----
+eval mean loss: 0.023462
+eval accuracy: 0.990562
+eval avg class acc: 0.989714
+Model saved in file: log20/model20.ckpt
+**** EPOCH 361 ****
+----
+Train_mean loss: 0.025821
+Train_accuracy: 0.989571
+----
+eval mean loss: 0.022626
+eval accuracy: 0.990892
+eval avg class acc: 0.990502
+**** EPOCH 362 ****
+----
+Train_mean loss: 0.024951
+Train_accuracy: 0.989950
+----
+eval mean loss: 0.021424
+eval accuracy: 0.991376
+eval avg class acc: 0.990991
+**** EPOCH 363 ****
+----
+Train_mean loss: 0.026069
+Train_accuracy: 0.989482
+----
+eval mean loss: 0.021652
+eval accuracy: 0.991201
+eval avg class acc: 0.990875
+**** EPOCH 364 ****
+----
+Train_mean loss: 0.025714
+Train_accuracy: 0.989572
+----
+eval mean loss: 0.021830
+eval accuracy: 0.991185
+eval avg class acc: 0.990516
+**** EPOCH 365 ****
+----
+Train_mean loss: 0.025446
+Train_accuracy: 0.989648
+----
+eval mean loss: 0.022552
+eval accuracy: 0.990859
+eval avg class acc: 0.990303
+**** EPOCH 366 ****
+----
+Train_mean loss: 0.024928
+Train_accuracy: 0.989980
+----
+eval mean loss: 0.020361
+eval accuracy: 0.991820
+eval avg class acc: 0.991436
+**** EPOCH 367 ****
+----
+Train_mean loss: 0.024436
+Train_accuracy: 0.990105
+----
+eval mean loss: 0.020797
+eval accuracy: 0.991617
+eval avg class acc: 0.991328
+**** EPOCH 368 ****
+----
+Train_mean loss: 0.024811
+Train_accuracy: 0.989984
+----
+eval mean loss: 0.023368
+eval accuracy: 0.990547
+eval avg class acc: 0.990097
+**** EPOCH 369 ****
+----
+Train_mean loss: 0.025912
+Train_accuracy: 0.989660
+----
+eval mean loss: 0.023943
+eval accuracy: 0.990329
+eval avg class acc: 0.989672
+**** EPOCH 370 ****
+----
+Train_mean loss: 0.024627
+Train_accuracy: 0.990058
+----
+eval mean loss: 0.021195
+eval accuracy: 0.991495
+eval avg class acc: 0.990855
+Model saved in file: log20/model20.ckpt
+**** EPOCH 371 ****
+----
+Train_mean loss: 0.025336
+Train_accuracy: 0.989804
+----
+eval mean loss: 0.025523
+eval accuracy: 0.989598
+eval avg class acc: 0.989069
+**** EPOCH 372 ****
+----
+Train_mean loss: 0.024912
+Train_accuracy: 0.989965
+----
+eval mean loss: 0.030114
+eval accuracy: 0.987846
+eval avg class acc: 0.987918
+**** EPOCH 373 ****
+----
+Train_mean loss: 0.024353
+Train_accuracy: 0.990116
+----
+eval mean loss: 0.022088
+eval accuracy: 0.991058
+eval avg class acc: 0.990595
+**** EPOCH 374 ****
+----
+Train_mean loss: 0.023715
+Train_accuracy: 0.990502
+----
+eval mean loss: 0.021115
+eval accuracy: 0.991511
+eval avg class acc: 0.991099
+**** EPOCH 375 ****
+----
+Train_mean loss: 0.024699
+Train_accuracy: 0.990052
+----
+eval mean loss: 0.025780
+eval accuracy: 0.989479
+eval avg class acc: 0.988893
+**** EPOCH 376 ****
+----
+Train_mean loss: 0.024005
+Train_accuracy: 0.990292
+----
+eval mean loss: 0.022208
+eval accuracy: 0.991043
+eval avg class acc: 0.990831
+**** EPOCH 377 ****
+----
+Train_mean loss: 0.024336
+Train_accuracy: 0.990201
+----
+eval mean loss: 0.020573
+eval accuracy: 0.991594
+eval avg class acc: 0.991077
+**** EPOCH 378 ****
+----
+Train_mean loss: 0.024942
+Train_accuracy: 0.990021
+----
+eval mean loss: 0.023156
+eval accuracy: 0.990544
+eval avg class acc: 0.990112
+**** EPOCH 379 ****
+----
+Train_mean loss: 0.024906
+Train_accuracy: 0.989904
+----
+eval mean loss: 0.023081
+eval accuracy: 0.990605
+eval avg class acc: 0.989774
+**** EPOCH 380 ****
+----
+Train_mean loss: 0.024972
+Train_accuracy: 0.989936
+----
+eval mean loss: 0.024720
+eval accuracy: 0.989915
+eval avg class acc: 0.989775
+Model saved in file: log20/model20.ckpt
+**** EPOCH 381 ****
+----
+Train_mean loss: 0.025419
+Train_accuracy: 0.989712
+----
+eval mean loss: 0.025870
+eval accuracy: 0.989510
+eval avg class acc: 0.988984
+**** EPOCH 382 ****
+----
+Train_mean loss: 0.024460
+Train_accuracy: 0.990189
+----
+eval mean loss: 0.021932
+eval accuracy: 0.991129
+eval avg class acc: 0.990496
+**** EPOCH 383 ****
+----
+Train_mean loss: 0.025085
+Train_accuracy: 0.989945
+----
+eval mean loss: 0.020007
+eval accuracy: 0.991894
+eval avg class acc: 0.991677
+**** EPOCH 384 ****
+----
+Train_mean loss: 0.024605
+Train_accuracy: 0.990123
+----
+eval mean loss: 0.022643
+eval accuracy: 0.990828
+eval avg class acc: 0.990514
+**** EPOCH 385 ****
+----
+Train_mean loss: 0.024911
+Train_accuracy: 0.989945
+----
+eval mean loss: 0.021337
+eval accuracy: 0.991438
+eval avg class acc: 0.991135
+**** EPOCH 386 ****
+----
+Train_mean loss: 0.024548
+Train_accuracy: 0.990052
+----
+eval mean loss: 0.021146
+eval accuracy: 0.991501
+eval avg class acc: 0.991040
+**** EPOCH 387 ****
+----
+Train_mean loss: 0.024883
+Train_accuracy: 0.989946
+----
+eval mean loss: 0.030550
+eval accuracy: 0.987518
+eval avg class acc: 0.986927
+**** EPOCH 388 ****
+----
+Train_mean loss: 0.024933
+Train_accuracy: 0.989943
+----
+eval mean loss: 0.023455
+eval accuracy: 0.990503
+eval avg class acc: 0.990112
+**** EPOCH 389 ****
+----
+Train_mean loss: 0.023991
+Train_accuracy: 0.990333
+----
+eval mean loss: 0.021042
+eval accuracy: 0.991390
+eval avg class acc: 0.990798
+**** EPOCH 390 ****
+----
+Train_mean loss: 0.023878
+Train_accuracy: 0.990382
+----
+eval mean loss: 0.020781
+eval accuracy: 0.991636
+eval avg class acc: 0.991079
+Model saved in file: log20/model20.ckpt
+**** EPOCH 391 ****
+----
+Train_mean loss: 0.024493
+Train_accuracy: 0.990145
+----
+eval mean loss: 0.027399
+eval accuracy: 0.988796
+eval avg class acc: 0.988259
+**** EPOCH 392 ****
+----
+Train_mean loss: 0.023433
+Train_accuracy: 0.990548
+----
+eval mean loss: 0.020795
+eval accuracy: 0.991607
+eval avg class acc: 0.991363
+**** EPOCH 393 ****
+----
+Train_mean loss: 0.023092
+Train_accuracy: 0.990682
+----
+eval mean loss: 0.020167
+eval accuracy: 0.991903
+eval avg class acc: 0.991316
+**** EPOCH 394 ****
+----
+Train_mean loss: 0.023426
+Train_accuracy: 0.990548
+----
+eval mean loss: 0.022254
+eval accuracy: 0.990915
+eval avg class acc: 0.990512
+**** EPOCH 395 ****
+----
+Train_mean loss: 0.023522
+Train_accuracy: 0.990547
+----
+eval mean loss: 0.020263
+eval accuracy: 0.991812
+eval avg class acc: 0.991266
+**** EPOCH 396 ****
+----
+Train_mean loss: 0.024609
+Train_accuracy: 0.990075
+----
+eval mean loss: 0.022142
+eval accuracy: 0.991046
+eval avg class acc: 0.990496
+**** EPOCH 397 ****
+----
+Train_mean loss: 0.024350
+Train_accuracy: 0.990406
+----
+eval mean loss: 0.019780
+eval accuracy: 0.992044
+eval avg class acc: 0.991434
+**** EPOCH 398 ****
+----
+Train_mean loss: 0.024277
+Train_accuracy: 0.990139
+----
+eval mean loss: 0.019197
+eval accuracy: 0.992253
+eval avg class acc: 0.992163
+**** EPOCH 399 ****
+----
+Train_mean loss: 0.024864
+Train_accuracy: 0.989916
+----
+eval mean loss: 0.029322
+eval accuracy: 0.988233
+eval avg class acc: 0.987819
+**** EPOCH 400 ****
+----
+Train_mean loss: 0.024123
+Train_accuracy: 0.990372
+----
+eval mean loss: 0.019073
+eval accuracy: 0.992319
+eval avg class acc: 0.991954
+Model saved in file: log20/model20.ckpt
+**** EPOCH 401 ****
+----
+Train_mean loss: 0.023752
+Train_accuracy: 0.990403
+----
+eval mean loss: 0.022879
+eval accuracy: 0.990689
+eval avg class acc: 0.990275
+**** EPOCH 402 ****
+----
+Train_mean loss: 0.023221
+Train_accuracy: 0.990604
+----
+eval mean loss: 0.026188
+eval accuracy: 0.989357
+eval avg class acc: 0.989053
+**** EPOCH 403 ****
+----
+Train_mean loss: 0.024877
+Train_accuracy: 0.990131
+----
+eval mean loss: 0.028408
+eval accuracy: 0.988683
+eval avg class acc: 0.988419
+**** EPOCH 404 ****
+----
+Train_mean loss: 0.024990
+Train_accuracy: 0.989908
+----
+eval mean loss: 0.024355
+eval accuracy: 0.990126
+eval avg class acc: 0.990352
+**** EPOCH 405 ****
+----
+Train_mean loss: 0.023923
+Train_accuracy: 0.990361
+----
+eval mean loss: 0.019457
+eval accuracy: 0.992227
+eval avg class acc: 0.991775
+**** EPOCH 406 ****
+----
+Train_mean loss: 0.023521
+Train_accuracy: 0.990488
+----
+eval mean loss: 0.025330
+eval accuracy: 0.989729
+eval avg class acc: 0.989183
+**** EPOCH 407 ****
+----
+Train_mean loss: 0.023645
+Train_accuracy: 0.990425
+----
+eval mean loss: 0.022071
+eval accuracy: 0.991040
+eval avg class acc: 0.990578
+**** EPOCH 408 ****
+----
+Train_mean loss: 0.024513
+Train_accuracy: 0.990094
+----
+eval mean loss: 0.019935
+eval accuracy: 0.991980
+eval avg class acc: 0.991294
+**** EPOCH 409 ****
+----
+Train_mean loss: 0.029174
+Train_accuracy: 0.988753
+----
+eval mean loss: 0.028251
+eval accuracy: 0.988403
+eval avg class acc: 0.987044
+**** EPOCH 410 ****
+----
+Train_mean loss: 0.027367
+Train_accuracy: 0.989008
+----
+eval mean loss: 0.022340
+eval accuracy: 0.990993
+eval avg class acc: 0.990351
+Model saved in file: log20/model20.ckpt
+**** EPOCH 411 ****
+----
+Train_mean loss: 0.024491
+Train_accuracy: 0.990097
+----
+eval mean loss: 0.024965
+eval accuracy: 0.989816
+eval avg class acc: 0.988923
+**** EPOCH 412 ****
+----
+Train_mean loss: 0.023176
+Train_accuracy: 0.990681
+----
+eval mean loss: 0.023236
+eval accuracy: 0.990553
+eval avg class acc: 0.990065
+**** EPOCH 413 ****
+----
+Train_mean loss: 0.023184
+Train_accuracy: 0.990587
+----
+eval mean loss: 0.026096
+eval accuracy: 0.989356
+eval avg class acc: 0.988900
+**** EPOCH 414 ****
+----
+Train_mean loss: 0.023354
+Train_accuracy: 0.990665
+----
+eval mean loss: 0.021739
+eval accuracy: 0.991193
+eval avg class acc: 0.990673
+**** EPOCH 415 ****
+----
+Train_mean loss: 0.022757
+Train_accuracy: 0.990805
+----
+eval mean loss: 0.020939
+eval accuracy: 0.991410
+eval avg class acc: 0.990998
+**** EPOCH 416 ****
+----
+Train_mean loss: 0.023008
+Train_accuracy: 0.990767
+----
+eval mean loss: 0.020548
+eval accuracy: 0.991650
+eval avg class acc: 0.991079
+**** EPOCH 417 ****
+----
+Train_mean loss: 0.023174
+Train_accuracy: 0.990598
+----
+eval mean loss: 0.017785
+eval accuracy: 0.992994
+eval avg class acc: 0.992730
+**** EPOCH 418 ****
+----
+Train_mean loss: 0.022198
+Train_accuracy: 0.991013
+----
+eval mean loss: 0.019363
+eval accuracy: 0.992217
+eval avg class acc: 0.991835
+**** EPOCH 419 ****
+----
+Train_mean loss: 0.023190
+Train_accuracy: 0.990631
+----
+eval mean loss: 0.020322
+eval accuracy: 0.991717
+eval avg class acc: 0.991169
+**** EPOCH 420 ****
+----
+Train_mean loss: 0.023449
+Train_accuracy: 0.990522
+----
+eval mean loss: 0.021212
+eval accuracy: 0.991384
+eval avg class acc: 0.990980
+Model saved in file: log20/model20.ckpt
+**** EPOCH 421 ****
+----
+Train_mean loss: 0.023517
+Train_accuracy: 0.990503
+----
+eval mean loss: 0.021338
+eval accuracy: 0.991296
+eval avg class acc: 0.991005
+**** EPOCH 422 ****
+----
+Train_mean loss: 0.022964
+Train_accuracy: 0.990781
+----
+eval mean loss: 0.025118
+eval accuracy: 0.990114
+eval avg class acc: 0.990231
+**** EPOCH 423 ****
+----
+Train_mean loss: 0.023351
+Train_accuracy: 0.990614
+----
+eval mean loss: 0.020507
+eval accuracy: 0.991907
+eval avg class acc: 0.991797
+**** EPOCH 424 ****
+----
+Train_mean loss: 0.024446
+Train_accuracy: 0.990319
+----
+eval mean loss: 0.019495
+eval accuracy: 0.992175
+eval avg class acc: 0.991529
+**** EPOCH 425 ****
+----
+Train_mean loss: 0.022387
+Train_accuracy: 0.990957
+----
+eval mean loss: 0.021707
+eval accuracy: 0.991201
+eval avg class acc: 0.990567
+**** EPOCH 426 ****
+----
+Train_mean loss: 0.022585
+Train_accuracy: 0.990901
+----
+eval mean loss: 0.021421
+eval accuracy: 0.991298
+eval avg class acc: 0.990992
+**** EPOCH 427 ****
+----
+Train_mean loss: 0.022708
+Train_accuracy: 0.990787
+----
+eval mean loss: 0.017762
+eval accuracy: 0.992892
+eval avg class acc: 0.992527
+**** EPOCH 428 ****
+----
+Train_mean loss: 0.023877
+Train_accuracy: 0.990323
+----
+eval mean loss: 0.018082
+eval accuracy: 0.992721
+eval avg class acc: 0.992197
+**** EPOCH 429 ****
+----
+Train_mean loss: 0.023415
+Train_accuracy: 0.990670
+----
+eval mean loss: 0.021989
+eval accuracy: 0.991600
+eval avg class acc: 0.991379
+**** EPOCH 430 ****
+----
+Train_mean loss: 0.023204
+Train_accuracy: 0.990650
+----
+eval mean loss: 0.022486
+eval accuracy: 0.990795
+eval avg class acc: 0.990528
+Model saved in file: log20/model20.ckpt
+**** EPOCH 431 ****
+----
+Train_mean loss: 0.021960
+Train_accuracy: 0.991104
+----
+eval mean loss: 0.020940
+eval accuracy: 0.991423
+eval avg class acc: 0.990933
+**** EPOCH 432 ****
+----
+Train_mean loss: 0.022776
+Train_accuracy: 0.990751
+----
+eval mean loss: 0.021070
+eval accuracy: 0.991304
+eval avg class acc: 0.990509
+**** EPOCH 433 ****
+----
+Train_mean loss: 0.022399
+Train_accuracy: 0.990952
+----
+eval mean loss: 0.020974
+eval accuracy: 0.991519
+eval avg class acc: 0.991432
+**** EPOCH 434 ****
+----
+Train_mean loss: 0.022453
+Train_accuracy: 0.990989
+----
+eval mean loss: 0.020802
+eval accuracy: 0.991540
+eval avg class acc: 0.990983
+**** EPOCH 435 ****
+----
+Train_mean loss: 0.022637
+Train_accuracy: 0.990840
+----
+eval mean loss: 0.020733
+eval accuracy: 0.991583
+eval avg class acc: 0.991243
+**** EPOCH 436 ****
+----
+Train_mean loss: 0.022152
+Train_accuracy: 0.991040
+----
+eval mean loss: 0.032052
+eval accuracy: 0.987182
+eval avg class acc: 0.986791
+**** EPOCH 437 ****
+----
+Train_mean loss: 0.022842
+Train_accuracy: 0.990705
+----
+eval mean loss: 0.019576
+eval accuracy: 0.992067
+eval avg class acc: 0.991822
+**** EPOCH 438 ****
+----
+Train_mean loss: 0.022156
+Train_accuracy: 0.991055
+----
+eval mean loss: 0.025264
+eval accuracy: 0.989682
+eval avg class acc: 0.988859
+**** EPOCH 439 ****
+----
+Train_mean loss: 0.021622
+Train_accuracy: 0.991236
+----
+eval mean loss: 0.017767
+eval accuracy: 0.992886
+eval avg class acc: 0.992491
+**** EPOCH 440 ****
+----
+Train_mean loss: 0.021590
+Train_accuracy: 0.991243
+----
+eval mean loss: 0.018625
+eval accuracy: 0.992371
+eval avg class acc: 0.991790
+Model saved in file: log20/model20.ckpt
+**** EPOCH 441 ****
+----
+Train_mean loss: 0.021645
+Train_accuracy: 0.991227
+----
+eval mean loss: 0.018732
+eval accuracy: 0.992339
+eval avg class acc: 0.992064
+**** EPOCH 442 ****
+----
+Train_mean loss: 0.022161
+Train_accuracy: 0.991019
+----
+eval mean loss: 0.018047
+eval accuracy: 0.992705
+eval avg class acc: 0.992143
+**** EPOCH 443 ****
+----
+Train_mean loss: 0.021824
+Train_accuracy: 0.991134
+----
+eval mean loss: 0.020731
+eval accuracy: 0.991597
+eval avg class acc: 0.991328
+**** EPOCH 444 ****
+----
+Train_mean loss: 0.022766
+Train_accuracy: 0.990869
+----
+eval mean loss: 0.018373
+eval accuracy: 0.992525
+eval avg class acc: 0.992163
+**** EPOCH 445 ****
+----
+Train_mean loss: 0.021974
+Train_accuracy: 0.991139
+----
+eval mean loss: 0.020559
+eval accuracy: 0.991635
+eval avg class acc: 0.991452
+**** EPOCH 446 ****
+----
+Train_mean loss: 0.021718
+Train_accuracy: 0.991194
+----
+eval mean loss: 0.023982
+eval accuracy: 0.990163
+eval avg class acc: 0.989574
+**** EPOCH 447 ****
+----
+Train_mean loss: 0.021584
+Train_accuracy: 0.991280
+----
+eval mean loss: 0.019027
+eval accuracy: 0.992256
+eval avg class acc: 0.991769
+**** EPOCH 448 ****
+----
+Train_mean loss: 0.021168
+Train_accuracy: 0.991448
+----
+eval mean loss: 0.017807
+eval accuracy: 0.992767
+eval avg class acc: 0.992325
+**** EPOCH 449 ****
+----
+Train_mean loss: 0.021577
+Train_accuracy: 0.991189
+----
+eval mean loss: 0.018605
+eval accuracy: 0.992521
+eval avg class acc: 0.991980
+**** EPOCH 450 ****
+----
+Train_mean loss: 0.022101
+Train_accuracy: 0.991054
+----
+eval mean loss: 0.020867
+eval accuracy: 0.991500
+eval avg class acc: 0.990505
+Model saved in file: log20/model20.ckpt
+**** EPOCH 451 ****
+----
+Train_mean loss: 0.021033
+Train_accuracy: 0.991485
+----
+eval mean loss: 0.018053
+eval accuracy: 0.992714
+eval avg class acc: 0.992404
+**** EPOCH 452 ****
+----
+Train_mean loss: 0.021190
+Train_accuracy: 0.991496
+----
+eval mean loss: 0.019807
+eval accuracy: 0.991868
+eval avg class acc: 0.991375
+**** EPOCH 453 ****
+----
+Train_mean loss: 0.022286
+Train_accuracy: 0.990973
+----
+eval mean loss: 0.027087
+eval accuracy: 0.989130
+eval avg class acc: 0.989023
+**** EPOCH 454 ****
+----
+Train_mean loss: 0.022619
+Train_accuracy: 0.990877
+----
+eval mean loss: 0.025428
+eval accuracy: 0.989740
+eval avg class acc: 0.989595
+**** EPOCH 455 ****
+----
+Train_mean loss: 0.022545
+Train_accuracy: 0.990869
+----
+eval mean loss: 0.017368
+eval accuracy: 0.993059
+eval avg class acc: 0.992684
+**** EPOCH 456 ****
+----
+Train_mean loss: 0.021276
+Train_accuracy: 0.991472
+----
+eval mean loss: 0.019402
+eval accuracy: 0.992108
+eval avg class acc: 0.991968
+**** EPOCH 457 ****
+----
+Train_mean loss: 0.021016
+Train_accuracy: 0.991470
+----
+eval mean loss: 0.020422
+eval accuracy: 0.991563
+eval avg class acc: 0.991045
+**** EPOCH 458 ****
+----
+Train_mean loss: 0.021191
+Train_accuracy: 0.991381
+----
+eval mean loss: 0.025601
+eval accuracy: 0.989608
+eval avg class acc: 0.988699
+**** EPOCH 459 ****
+----
+Train_mean loss: 0.021844
+Train_accuracy: 0.991140
+----
+eval mean loss: 0.029309
+eval accuracy: 0.988146
+eval avg class acc: 0.988129
+**** EPOCH 460 ****
+----
+Train_mean loss: 0.021554
+Train_accuracy: 0.991262
+----
+eval mean loss: 0.018173
+eval accuracy: 0.992684
+eval avg class acc: 0.991976
+Model saved in file: log20/model20.ckpt
+**** EPOCH 461 ****
+----
+Train_mean loss: 0.021876
+Train_accuracy: 0.991211
+----
+eval mean loss: 0.021889
+eval accuracy: 0.990940
+eval avg class acc: 0.990108
+**** EPOCH 462 ****
+----
+Train_mean loss: 0.020751
+Train_accuracy: 0.991612
+----
+eval mean loss: 0.016437
+eval accuracy: 0.993337
+eval avg class acc: 0.993054
+**** EPOCH 463 ****
+----
+Train_mean loss: 0.021763
+Train_accuracy: 0.991199
+----
+eval mean loss: 0.023028
+eval accuracy: 0.990603
+eval avg class acc: 0.990379
+**** EPOCH 464 ****
+----
+Train_mean loss: 0.020680
+Train_accuracy: 0.991633
+----
+eval mean loss: 0.020198
+eval accuracy: 0.991762
+eval avg class acc: 0.991227
+**** EPOCH 465 ****
+----
+Train_mean loss: 0.021848
+Train_accuracy: 0.991105
+----
+eval mean loss: 0.025416
+eval accuracy: 0.989680
+eval avg class acc: 0.989169
+**** EPOCH 466 ****
+----
+Train_mean loss: 0.021405
+Train_accuracy: 0.991325
+----
+eval mean loss: 0.018982
+eval accuracy: 0.992355
+eval avg class acc: 0.991708
+**** EPOCH 467 ****
+----
+Train_mean loss: 0.021075
+Train_accuracy: 0.991470
+----
+eval mean loss: 0.017609
+eval accuracy: 0.993060
+eval avg class acc: 0.992560
+**** EPOCH 468 ****
+----
+Train_mean loss: 0.020743
+Train_accuracy: 0.991575
+----
+eval mean loss: 0.020076
+eval accuracy: 0.991753
+eval avg class acc: 0.991198
+**** EPOCH 469 ****
+----
+Train_mean loss: 0.020913
+Train_accuracy: 0.991552
+----
+eval mean loss: 0.017227
+eval accuracy: 0.993033
+eval avg class acc: 0.992796
+**** EPOCH 470 ****
+----
+Train_mean loss: 0.021360
+Train_accuracy: 0.991347
+----
+eval mean loss: 0.020965
+eval accuracy: 0.991344
+eval avg class acc: 0.990653
+Model saved in file: log20/model20.ckpt
+**** EPOCH 471 ****
+----
+Train_mean loss: 0.021462
+Train_accuracy: 0.991309
+----
+eval mean loss: 0.023793
+eval accuracy: 0.990284
+eval avg class acc: 0.989508
+**** EPOCH 472 ****
+----
+Train_mean loss: 0.020887
+Train_accuracy: 0.991593
+----
+eval mean loss: 0.019019
+eval accuracy: 0.992234
+eval avg class acc: 0.991940
+**** EPOCH 473 ****
+----
+Train_mean loss: 0.020007
+Train_accuracy: 0.991859
+----
+eval mean loss: 0.017667
+eval accuracy: 0.992824
+eval avg class acc: 0.992229
+**** EPOCH 474 ****
+----
+Train_mean loss: 0.020195
+Train_accuracy: 0.991866
+----
+eval mean loss: 0.017793
+eval accuracy: 0.992823
+eval avg class acc: 0.992287
+**** EPOCH 475 ****
+----
+Train_mean loss: 0.021569
+Train_accuracy: 0.991341
+----
+eval mean loss: 0.017684
+eval accuracy: 0.992792
+eval avg class acc: 0.992343
+**** EPOCH 476 ****
+----
+Train_mean loss: 0.021650
+Train_accuracy: 0.991247
+----
+eval mean loss: 0.017246
+eval accuracy: 0.993060
+eval avg class acc: 0.992857
+**** EPOCH 477 ****
+----
+Train_mean loss: 0.020746
+Train_accuracy: 0.991523
+----
+eval mean loss: 0.021135
+eval accuracy: 0.991388
+eval avg class acc: 0.991114
+**** EPOCH 478 ****
+----
+Train_mean loss: 0.020012
+Train_accuracy: 0.991874
+----
+eval mean loss: 0.021035
+eval accuracy: 0.991401
+eval avg class acc: 0.991212
+**** EPOCH 479 ****
+----
+Train_mean loss: 0.021437
+Train_accuracy: 0.991287
+----
+eval mean loss: 0.022083
+eval accuracy: 0.991023
+eval avg class acc: 0.990446
+**** EPOCH 480 ****
+----
+Train_mean loss: 0.021121
+Train_accuracy: 0.991476
+----
+eval mean loss: 0.020733
+eval accuracy: 0.991552
+eval avg class acc: 0.990927
+Model saved in file: log20/model20.ckpt
+**** EPOCH 481 ****
+----
+Train_mean loss: 0.021380
+Train_accuracy: 0.991286
+----
+eval mean loss: 0.020776
+eval accuracy: 0.991581
+eval avg class acc: 0.991052
+**** EPOCH 482 ****
+----
+Train_mean loss: 0.020996
+Train_accuracy: 0.991522
+----
+eval mean loss: 0.017868
+eval accuracy: 0.992926
+eval avg class acc: 0.992826
+**** EPOCH 483 ****
+----
+Train_mean loss: 0.021958
+Train_accuracy: 0.991172
+----
+eval mean loss: 0.025930
+eval accuracy: 0.989612
+eval avg class acc: 0.989285
+**** EPOCH 484 ****
+----
+Train_mean loss: 0.021484
+Train_accuracy: 0.991333
+----
+eval mean loss: 0.030407
+eval accuracy: 0.987833
+eval avg class acc: 0.987189
+**** EPOCH 485 ****
+----
+Train_mean loss: 0.021311
+Train_accuracy: 0.991359
+----
+eval mean loss: 0.017436
+eval accuracy: 0.992989
+eval avg class acc: 0.992643
+**** EPOCH 486 ****
+----
+Train_mean loss: 0.020535
+Train_accuracy: 0.991719
+----
+eval mean loss: 0.020962
+eval accuracy: 0.991459
+eval avg class acc: 0.990635
+**** EPOCH 487 ****
+----
+Train_mean loss: 0.021413
+Train_accuracy: 0.991355
+----
+eval mean loss: 0.021107
+eval accuracy: 0.991464
+eval avg class acc: 0.990997
+**** EPOCH 488 ****
+----
+Train_mean loss: 0.020230
+Train_accuracy: 0.991861
+----
+eval mean loss: 0.017180
+eval accuracy: 0.993077
+eval avg class acc: 0.992464
+**** EPOCH 489 ****
+----
+Train_mean loss: 0.020620
+Train_accuracy: 0.991649
+----
+eval mean loss: 0.027692
+eval accuracy: 0.988871
+eval avg class acc: 0.988595
+**** EPOCH 490 ****
+----
+Train_mean loss: 0.020178
+Train_accuracy: 0.991830
+----
+eval mean loss: 0.025028
+eval accuracy: 0.989878
+eval avg class acc: 0.989181
+Model saved in file: log20/model20.ckpt
+**** EPOCH 491 ****
+----
+Train_mean loss: 0.019908
+Train_accuracy: 0.991925
+----
+eval mean loss: 0.016310
+eval accuracy: 0.993331
+eval avg class acc: 0.993076
+**** EPOCH 492 ****
+----
+Train_mean loss: 0.020025
+Train_accuracy: 0.991871
+----
+eval mean loss: 0.028791
+eval accuracy: 0.988468
+eval avg class acc: 0.988033
+**** EPOCH 493 ****
+----
+Train_mean loss: 0.020464
+Train_accuracy: 0.991608
+----
+eval mean loss: 0.025094
+eval accuracy: 0.989758
+eval avg class acc: 0.989257
+**** EPOCH 494 ****
+----
+Train_mean loss: 0.020224
+Train_accuracy: 0.991856
+----
+eval mean loss: 0.019642
+eval accuracy: 0.991987
+eval avg class acc: 0.991546
+**** EPOCH 495 ****
+----
+Train_mean loss: 0.020415
+Train_accuracy: 0.991724
+----
+eval mean loss: 0.022356
+eval accuracy: 0.990867
+eval avg class acc: 0.990427
+**** EPOCH 496 ****
+----
+Train_mean loss: 0.020309
+Train_accuracy: 0.991720
+----
+eval mean loss: 0.016301
+eval accuracy: 0.993479
+eval avg class acc: 0.993305
+**** EPOCH 497 ****
+----
+Train_mean loss: 0.020366
+Train_accuracy: 0.991773
+----
+eval mean loss: 0.017055
+eval accuracy: 0.993059
+eval avg class acc: 0.992745
+**** EPOCH 498 ****
+----
+Train_mean loss: 0.020467
+Train_accuracy: 0.991681
+----
+eval mean loss: 0.018161
+eval accuracy: 0.992598
+eval avg class acc: 0.992462
+**** EPOCH 499 ****
+----
+Train_mean loss: 0.020575
+Train_accuracy: 0.991771
+----
+eval mean loss: 0.017728
+eval accuracy: 0.992804
+eval avg class acc: 0.992631
+**** EPOCH 500 ****
+----
+Train_mean loss: 0.022006
+Train_accuracy: 0.991185
+----
+eval mean loss: 0.024831
+eval accuracy: 0.989894
+eval avg class acc: 0.988793
+Model saved in file: log20/model20.ckpt
+**** EPOCH 501 ****
+----
+Train_mean loss: 0.020282
+Train_accuracy: 0.991785
+----
+eval mean loss: 0.019848
+eval accuracy: 0.991884
+eval avg class acc: 0.991300
+**** EPOCH 502 ****
+----
+Train_mean loss: 0.020397
+Train_accuracy: 0.991699
+----
+eval mean loss: 0.022942
+eval accuracy: 0.990719
+eval avg class acc: 0.990528
+**** EPOCH 503 ****
+----
+Train_mean loss: 0.020154
+Train_accuracy: 0.991889
+----
+eval mean loss: 0.018671
+eval accuracy: 0.992445
+eval avg class acc: 0.991904
+**** EPOCH 504 ****
+----
+Train_mean loss: 0.019606
+Train_accuracy: 0.992086
+----
+eval mean loss: 0.019494
+eval accuracy: 0.992058
+eval avg class acc: 0.991352
+**** EPOCH 505 ****
+----
+Train_mean loss: 0.019532
+Train_accuracy: 0.992152
+----
+eval mean loss: 0.021036
+eval accuracy: 0.991500
+eval avg class acc: 0.990943
+**** EPOCH 506 ****
+----
+Train_mean loss: 0.019843
+Train_accuracy: 0.991975
+----
+eval mean loss: 0.016118
+eval accuracy: 0.993563
+eval avg class acc: 0.993056
+**** EPOCH 507 ****
+----
+Train_mean loss: 0.019680
+Train_accuracy: 0.992013
+----
+eval mean loss: 0.015655
+eval accuracy: 0.993710
+eval avg class acc: 0.993405
+**** EPOCH 508 ****
+----
+Train_mean loss: 0.019787
+Train_accuracy: 0.991994
+----
+eval mean loss: 0.021460
+eval accuracy: 0.991290
+eval avg class acc: 0.990668
+**** EPOCH 509 ****
+----
+Train_mean loss: 0.020509
+Train_accuracy: 0.991742
+----
+eval mean loss: 0.020999
+eval accuracy: 0.991592
+eval avg class acc: 0.991393
+**** EPOCH 510 ****
+----
+Train_mean loss: 0.020366
+Train_accuracy: 0.991767
+----
+eval mean loss: 0.019016
+eval accuracy: 0.992213
+eval avg class acc: 0.991762
+Model saved in file: log20/model20.ckpt
+**** EPOCH 511 ****
+----
+Train_mean loss: 0.020507
+Train_accuracy: 0.991608
+----
+eval mean loss: 0.020730
+eval accuracy: 0.991576
+eval avg class acc: 0.991019
+**** EPOCH 512 ****
+----
+Train_mean loss: 0.019807
+Train_accuracy: 0.991986
+----
+eval mean loss: 0.021597
+eval accuracy: 0.991197
+eval avg class acc: 0.990568
+**** EPOCH 513 ****
+----
+Train_mean loss: 0.019644
+Train_accuracy: 0.992009
+----
+eval mean loss: 0.016451
+eval accuracy: 0.993289
+eval avg class acc: 0.992820
+**** EPOCH 514 ****
+----
+Train_mean loss: 0.019001
+Train_accuracy: 0.992265
+----
+eval mean loss: 0.015143
+eval accuracy: 0.993885
+eval avg class acc: 0.993478
+**** EPOCH 515 ****
+----
+Train_mean loss: 0.019624
+Train_accuracy: 0.992067
+----
+eval mean loss: 0.016789
+eval accuracy: 0.993120
+eval avg class acc: 0.992775
+**** EPOCH 516 ****
+----
+Train_mean loss: 0.019910
+Train_accuracy: 0.991954
+----
+eval mean loss: 0.015389
+eval accuracy: 0.993756
+eval avg class acc: 0.993411
+**** EPOCH 517 ****
+----
+Train_mean loss: 0.019120
+Train_accuracy: 0.992310
+----
+eval mean loss: 0.015815
+eval accuracy: 0.993598
+eval avg class acc: 0.993075
+**** EPOCH 518 ****
+----
+Train_mean loss: 0.019554
+Train_accuracy: 0.992083
+----
+eval mean loss: 0.015419
+eval accuracy: 0.993903
+eval avg class acc: 0.993610
+**** EPOCH 519 ****
+----
+Train_mean loss: 0.022922
+Train_accuracy: 0.991078
+----
+eval mean loss: 0.028693
+eval accuracy: 0.988749
+eval avg class acc: 0.987891
+**** EPOCH 520 ****
+----
+Train_mean loss: 0.026961
+Train_accuracy: 0.989424
+----
+eval mean loss: 0.019436
+eval accuracy: 0.992317
+eval avg class acc: 0.991294
+Model saved in file: log20/model20.ckpt
+**** EPOCH 521 ****
+----
+Train_mean loss: 0.021573
+Train_accuracy: 0.991369
+----
+eval mean loss: 0.016816
+eval accuracy: 0.993187
+eval avg class acc: 0.993184
+**** EPOCH 522 ****
+----
+Train_mean loss: 0.019912
+Train_accuracy: 0.992013
+----
+eval mean loss: 0.019074
+eval accuracy: 0.992172
+eval avg class acc: 0.991755
+**** EPOCH 523 ****
+----
+Train_mean loss: 0.020689
+Train_accuracy: 0.991620
+----
+eval mean loss: 0.018165
+eval accuracy: 0.992565
+eval avg class acc: 0.992301
+**** EPOCH 524 ****
+----
+Train_mean loss: 0.019183
+Train_accuracy: 0.992187
+----
+eval mean loss: 0.015246
+eval accuracy: 0.993827
+eval avg class acc: 0.993412
+**** EPOCH 525 ****
+----
+Train_mean loss: 0.019649
+Train_accuracy: 0.992041
+----
+eval mean loss: 0.017895
+eval accuracy: 0.992680
+eval avg class acc: 0.992159
+**** EPOCH 526 ****
+----
+Train_mean loss: 0.020437
+Train_accuracy: 0.991791
+----
+eval mean loss: 0.016452
+eval accuracy: 0.993306
+eval avg class acc: 0.992982
+**** EPOCH 527 ****
+----
+Train_mean loss: 0.024926
+Train_accuracy: 0.990172
+----
+eval mean loss: 0.023063
+eval accuracy: 0.990703
+eval avg class acc: 0.990050
+**** EPOCH 528 ****
+----
+Train_mean loss: 0.022119
+Train_accuracy: 0.991117
+----
+eval mean loss: 0.017848
+eval accuracy: 0.992786
+eval avg class acc: 0.992381
+**** EPOCH 529 ****
+----
+Train_mean loss: 0.019282
+Train_accuracy: 0.992178
+----
+eval mean loss: 0.021940
+eval accuracy: 0.991063
+eval avg class acc: 0.990632
+**** EPOCH 530 ****
+----
+Train_mean loss: 0.019846
+Train_accuracy: 0.992027
+----
+eval mean loss: 0.016776
+eval accuracy: 0.993184
+eval avg class acc: 0.992839
+Model saved in file: log20/model20.ckpt
+**** EPOCH 531 ****
+----
+Train_mean loss: 0.020048
+Train_accuracy: 0.991968
+----
+eval mean loss: 0.017020
+eval accuracy: 0.993171
+eval avg class acc: 0.992573
+**** EPOCH 532 ****
+----
+Train_mean loss: 0.020498
+Train_accuracy: 0.991714
+----
+eval mean loss: 0.015452
+eval accuracy: 0.993890
+eval avg class acc: 0.993528
+**** EPOCH 533 ****
+----
+Train_mean loss: 0.019273
+Train_accuracy: 0.992136
+----
+eval mean loss: 0.017067
+eval accuracy: 0.993112
+eval avg class acc: 0.992543
+**** EPOCH 534 ****
+----
+Train_mean loss: 0.018941
+Train_accuracy: 0.992363
+----
+eval mean loss: 0.018406
+eval accuracy: 0.992469
+eval avg class acc: 0.992001
+**** EPOCH 535 ****
+----
+Train_mean loss: 0.018627
+Train_accuracy: 0.992412
+----
+eval mean loss: 0.017304
+eval accuracy: 0.992926
+eval avg class acc: 0.992201
+**** EPOCH 536 ****
+----
+Train_mean loss: 0.018628
+Train_accuracy: 0.992422
+----
+eval mean loss: 0.015661
+eval accuracy: 0.993653
+eval avg class acc: 0.993369
+**** EPOCH 537 ****
+----
+Train_mean loss: 0.018779
+Train_accuracy: 0.992406
+----
+eval mean loss: 0.016990
+eval accuracy: 0.993037
+eval avg class acc: 0.992509
+**** EPOCH 538 ****
+----
+Train_mean loss: 0.018964
+Train_accuracy: 0.992318
+----
+eval mean loss: 0.016871
+eval accuracy: 0.993100
+eval avg class acc: 0.992626
+**** EPOCH 539 ****
+----
+Train_mean loss: 0.019424
+Train_accuracy: 0.992137
+----
+eval mean loss: 0.018058
+eval accuracy: 0.992618
+eval avg class acc: 0.992261
+**** EPOCH 540 ****
+----
+Train_mean loss: 0.018795
+Train_accuracy: 0.992391
+----
+eval mean loss: 0.015137
+eval accuracy: 0.993880
+eval avg class acc: 0.993530
+Model saved in file: log20/model20.ckpt
+**** EPOCH 541 ****
+----
+Train_mean loss: 0.018346
+Train_accuracy: 0.992529
+----
+eval mean loss: 0.016232
+eval accuracy: 0.993355
+eval avg class acc: 0.992891
+**** EPOCH 542 ****
+----
+Train_mean loss: 0.017994
+Train_accuracy: 0.992694
+----
+eval mean loss: 0.018925
+eval accuracy: 0.992257
+eval avg class acc: 0.991832
+**** EPOCH 543 ****
+----
+Train_mean loss: 0.018777
+Train_accuracy: 0.992407
+----
+eval mean loss: 0.018259
+eval accuracy: 0.992538
+eval avg class acc: 0.991939
+**** EPOCH 544 ****
+----
+Train_mean loss: 0.017863
+Train_accuracy: 0.992784
+----
+eval mean loss: 0.019033
+eval accuracy: 0.992276
+eval avg class acc: 0.992273
+**** EPOCH 545 ****
+----
+Train_mean loss: 0.018218
+Train_accuracy: 0.992561
+----
+eval mean loss: 0.016826
+eval accuracy: 0.993119
+eval avg class acc: 0.992468
+**** EPOCH 546 ****
+----
+Train_mean loss: 0.017793
+Train_accuracy: 0.992752
+----
+eval mean loss: 0.017392
+eval accuracy: 0.992888
+eval avg class acc: 0.992415
+**** EPOCH 547 ****
+----
+Train_mean loss: 0.017905
+Train_accuracy: 0.992761
+----
+eval mean loss: 0.017828
+eval accuracy: 0.992708
+eval avg class acc: 0.992372
+**** EPOCH 548 ****
+----
+Train_mean loss: 0.017980
+Train_accuracy: 0.992691
+----
+eval mean loss: 0.021554
+eval accuracy: 0.991193
+eval avg class acc: 0.990866
+**** EPOCH 549 ****
+----
+Train_mean loss: 0.018043
+Train_accuracy: 0.992651
+----
+eval mean loss: 0.013747
+eval accuracy: 0.994487
+eval avg class acc: 0.994059
+**** EPOCH 550 ****
+----
+Train_mean loss: 0.017192
+Train_accuracy: 0.992967
+----
+eval mean loss: 0.014148
+eval accuracy: 0.994239
+eval avg class acc: 0.993909
+Model saved in file: log20/model20.ckpt
+**** EPOCH 551 ****
+----
+Train_mean loss: 0.017707
+Train_accuracy: 0.992811
+----
+eval mean loss: 0.016309
+eval accuracy: 0.993377
+eval avg class acc: 0.992858
+**** EPOCH 552 ****
+----
+Train_mean loss: 0.017509
+Train_accuracy: 0.992885
+----
+eval mean loss: 0.014263
+eval accuracy: 0.994194
+eval avg class acc: 0.993983
+**** EPOCH 553 ****
+----
+Train_mean loss: 0.017971
+Train_accuracy: 0.992699
+----
+eval mean loss: 0.016409
+eval accuracy: 0.993374
+eval avg class acc: 0.992784
+**** EPOCH 554 ****
+----
+Train_mean loss: 0.018440
+Train_accuracy: 0.992509
+----
+eval mean loss: 0.017531
+eval accuracy: 0.992837
+eval avg class acc: 0.992450
+**** EPOCH 555 ****
+----
+Train_mean loss: 0.017582
+Train_accuracy: 0.992857
+----
+eval mean loss: 0.015273
+eval accuracy: 0.993791
+eval avg class acc: 0.993353
+**** EPOCH 556 ****
+----
+Train_mean loss: 0.017423
+Train_accuracy: 0.992908
+----
+eval mean loss: 0.018387
+eval accuracy: 0.992506
+eval avg class acc: 0.992220
+**** EPOCH 557 ****
+----
+Train_mean loss: 0.017253
+Train_accuracy: 0.993039
+----
+eval mean loss: 0.019143
+eval accuracy: 0.992176
+eval avg class acc: 0.991784
+**** EPOCH 558 ****
+----
+Train_mean loss: 0.017726
+Train_accuracy: 0.992849
+----
+eval mean loss: 0.016297
+eval accuracy: 0.993384
+eval avg class acc: 0.993076
+**** EPOCH 559 ****
+----
+Train_mean loss: 0.017983
+Train_accuracy: 0.992747
+----
+eval mean loss: 0.014035
+eval accuracy: 0.994382
+eval avg class acc: 0.993941
+**** EPOCH 560 ****
+----
+Train_mean loss: 0.017266
+Train_accuracy: 0.993015
+----
+eval mean loss: 0.017318
+eval accuracy: 0.992987
+eval avg class acc: 0.992408
+Model saved in file: log20/model20.ckpt
+**** EPOCH 561 ****
+----
+Train_mean loss: 0.018085
+Train_accuracy: 0.992718
+----
+eval mean loss: 0.016901
+eval accuracy: 0.993151
+eval avg class acc: 0.992846
+**** EPOCH 562 ****
+----
+Train_mean loss: 0.024647
+Train_accuracy: 0.991056
+----
+eval mean loss: 0.017108
+eval accuracy: 0.993106
+eval avg class acc: 0.992854
+**** EPOCH 563 ****
+----
+Train_mean loss: 0.018710
+Train_accuracy: 0.992447
+----
+eval mean loss: 0.016221
+eval accuracy: 0.993440
+eval avg class acc: 0.993189
+**** EPOCH 564 ****
+----
+Train_mean loss: 0.018087
+Train_accuracy: 0.992665
+----
+eval mean loss: 0.018195
+eval accuracy: 0.992564
+eval avg class acc: 0.992225
+**** EPOCH 565 ****
+----
+Train_mean loss: 0.018431
+Train_accuracy: 0.992597
+----
+eval mean loss: 0.018538
+eval accuracy: 0.992478
+eval avg class acc: 0.992094
+**** EPOCH 566 ****
+----
+Train_mean loss: 0.017338
+Train_accuracy: 0.992980
+----
+eval mean loss: 0.015592
+eval accuracy: 0.993675
+eval avg class acc: 0.993150
+**** EPOCH 567 ****
+----
+Train_mean loss: 0.017933
+Train_accuracy: 0.992707
+----
+eval mean loss: 0.018655
+eval accuracy: 0.992340
+eval avg class acc: 0.991981
+**** EPOCH 568 ****
+----
+Train_mean loss: 0.017057
+Train_accuracy: 0.993088
+----
+eval mean loss: 0.017171
+eval accuracy: 0.992983
+eval avg class acc: 0.992545
+**** EPOCH 569 ****
+----
+Train_mean loss: 0.017377
+Train_accuracy: 0.992928
+----
+eval mean loss: 0.016583
+eval accuracy: 0.993256
+eval avg class acc: 0.992729
+**** EPOCH 570 ****
+----
+Train_mean loss: 0.017124
+Train_accuracy: 0.993044
+----
+eval mean loss: 0.014482
+eval accuracy: 0.994161
+eval avg class acc: 0.993799
+Model saved in file: log20/model20.ckpt
+**** EPOCH 571 ****
+----
+Train_mean loss: 0.017744
+Train_accuracy: 0.992785
+----
+eval mean loss: 0.016734
+eval accuracy: 0.993139
+eval avg class acc: 0.992893
+**** EPOCH 572 ****
+----
+Train_mean loss: 0.017391
+Train_accuracy: 0.992940
+----
+eval mean loss: 0.019152
+eval accuracy: 0.992237
+eval avg class acc: 0.991853
+**** EPOCH 573 ****
+----
+Train_mean loss: 0.017226
+Train_accuracy: 0.993063
+----
+eval mean loss: 0.014417
+eval accuracy: 0.994157
+eval avg class acc: 0.993737
+**** EPOCH 574 ****
+----
+Train_mean loss: 0.017225
+Train_accuracy: 0.992993
+----
+eval mean loss: 0.015257
+eval accuracy: 0.993792
+eval avg class acc: 0.993425
+**** EPOCH 575 ****
+----
+Train_mean loss: 0.017201
+Train_accuracy: 0.992998
+----
+eval mean loss: 0.014857
+eval accuracy: 0.993970
+eval avg class acc: 0.993680
+**** EPOCH 576 ****
+----
+Train_mean loss: 0.017360
+Train_accuracy: 0.992934
+----
+eval mean loss: 0.016527
+eval accuracy: 0.993290
+eval avg class acc: 0.992977
+**** EPOCH 577 ****
+----
+Train_mean loss: 0.016878
+Train_accuracy: 0.993170
+----
+eval mean loss: 0.015499
+eval accuracy: 0.993709
+eval avg class acc: 0.993104
+**** EPOCH 578 ****
+----
+Train_mean loss: 0.017242
+Train_accuracy: 0.992950
+----
+eval mean loss: 0.016630
+eval accuracy: 0.993244
+eval avg class acc: 0.992967
+**** EPOCH 579 ****
+----
+Train_mean loss: 0.016956
+Train_accuracy: 0.993135
+----
+eval mean loss: 0.017777
+eval accuracy: 0.992721
+eval avg class acc: 0.992316
+**** EPOCH 580 ****
+----
+Train_mean loss: 0.017344
+Train_accuracy: 0.992936
+----
+eval mean loss: 0.018246
+eval accuracy: 0.992579
+eval avg class acc: 0.992087
+Model saved in file: log20/model20.ckpt
+**** EPOCH 581 ****
+----
+Train_mean loss: 0.017504
+Train_accuracy: 0.992919
+----
+eval mean loss: 0.014777
+eval accuracy: 0.994038
+eval avg class acc: 0.993531
+**** EPOCH 582 ****
+----
+Train_mean loss: 0.016925
+Train_accuracy: 0.993084
+----
+eval mean loss: 0.014594
+eval accuracy: 0.994120
+eval avg class acc: 0.993790
+**** EPOCH 583 ****
+----
+Train_mean loss: 0.016985
+Train_accuracy: 0.993062
+----
+eval mean loss: 0.016327
+eval accuracy: 0.993375
+eval avg class acc: 0.992854
+**** EPOCH 584 ****
+----
+Train_mean loss: 0.016762
+Train_accuracy: 0.993202
+----
+eval mean loss: 0.017657
+eval accuracy: 0.992795
+eval avg class acc: 0.992555
+**** EPOCH 585 ****
+----
+Train_mean loss: 0.017085
+Train_accuracy: 0.993043
+----
+eval mean loss: 0.012900
+eval accuracy: 0.994804
+eval avg class acc: 0.994547
+**** EPOCH 586 ****
+----
+Train_mean loss: 0.017722
+Train_accuracy: 0.992785
+----
+eval mean loss: 0.016020
+eval accuracy: 0.993476
+eval avg class acc: 0.993224
+**** EPOCH 587 ****
+----
+Train_mean loss: 0.017876
+Train_accuracy: 0.992942
+----
+eval mean loss: 0.014743
+eval accuracy: 0.993976
+eval avg class acc: 0.993750
+**** EPOCH 588 ****
+----
+Train_mean loss: 0.018460
+Train_accuracy: 0.992608
+----
+eval mean loss: 0.016299
+eval accuracy: 0.993458
+eval avg class acc: 0.992592
+**** EPOCH 589 ****
+----
+Train_mean loss: 0.017838
+Train_accuracy: 0.992732
+----
+eval mean loss: 0.016059
+eval accuracy: 0.993531
+eval avg class acc: 0.993320
+**** EPOCH 590 ****
+----
+Train_mean loss: 0.017375
+Train_accuracy: 0.992972
+----
+eval mean loss: 0.015135
+eval accuracy: 0.993858
+eval avg class acc: 0.993539
+Model saved in file: log20/model20.ckpt
+**** EPOCH 591 ****
+----
+Train_mean loss: 0.016894
+Train_accuracy: 0.993088
+----
+eval mean loss: 0.013677
+eval accuracy: 0.994494
+eval avg class acc: 0.994126
+**** EPOCH 592 ****
+----
+Train_mean loss: 0.017687
+Train_accuracy: 0.992883
+----
+eval mean loss: 0.017220
+eval accuracy: 0.992964
+eval avg class acc: 0.992424
+**** EPOCH 593 ****
+----
+Train_mean loss: 0.020717
+Train_accuracy: 0.991981
+----
+eval mean loss: 0.024131
+eval accuracy: 0.990316
+eval avg class acc: 0.990272
+**** EPOCH 594 ****
+----
+Train_mean loss: 0.018630
+Train_accuracy: 0.992479
+----
+eval mean loss: 0.015128
+eval accuracy: 0.993984
+eval avg class acc: 0.993441
+**** EPOCH 595 ****
+----
+Train_mean loss: 0.017586
+Train_accuracy: 0.992872
+----
+eval mean loss: 0.016202
+eval accuracy: 0.993462
+eval avg class acc: 0.993031
+**** EPOCH 596 ****
+----
+Train_mean loss: 0.017521
+Train_accuracy: 0.992921
+----
+eval mean loss: 0.018227
+eval accuracy: 0.992577
+eval avg class acc: 0.992005
+**** EPOCH 597 ****
+----
+Train_mean loss: 0.016961
+Train_accuracy: 0.993092
+----
+eval mean loss: 0.018889
+eval accuracy: 0.992289
+eval avg class acc: 0.991579
+**** EPOCH 598 ****
+----
+Train_mean loss: 0.017197
+Train_accuracy: 0.992972
+----
+eval mean loss: 0.014902
+eval accuracy: 0.993930
+eval avg class acc: 0.993395
+**** EPOCH 599 ****
+----
+Train_mean loss: 0.017170
+Train_accuracy: 0.993082
+----
+eval mean loss: 0.016982
+eval accuracy: 0.993077
+eval avg class acc: 0.992749
+**** EPOCH 600 ****
+----
+Train_mean loss: 0.016659
+Train_accuracy: 0.993250
+----
+eval mean loss: 0.015449
+eval accuracy: 0.993624
+eval avg class acc: 0.993159
+Model saved in file: log20/model20.ckpt
+**** EPOCH 601 ****
+----
+Train_mean loss: 0.016978
+Train_accuracy: 0.993129
+----
+eval mean loss: 0.017210
+eval accuracy: 0.992945
+eval avg class acc: 0.992392
+**** EPOCH 602 ****
+----
+Train_mean loss: 0.016772
+Train_accuracy: 0.993200
+----
+eval mean loss: 0.013974
+eval accuracy: 0.994387
+eval avg class acc: 0.993996
+**** EPOCH 603 ****
+----
+Train_mean loss: 0.016772
+Train_accuracy: 0.993107
+----
+eval mean loss: 0.014952
+eval accuracy: 0.993949
+eval avg class acc: 0.993612
+**** EPOCH 604 ****
+----
+Train_mean loss: 0.017096
+Train_accuracy: 0.993111
+----
+eval mean loss: 0.014724
+eval accuracy: 0.993987
+eval avg class acc: 0.993532
+**** EPOCH 605 ****
+----
+Train_mean loss: 0.019198
+Train_accuracy: 0.992396
+----
+eval mean loss: 0.019306
+eval accuracy: 0.992043
+eval avg class acc: 0.991451
+**** EPOCH 606 ****
+----
+Train_mean loss: 0.017029
+Train_accuracy: 0.993074
+----
+eval mean loss: 0.015419
+eval accuracy: 0.993762
+eval avg class acc: 0.993279
+**** EPOCH 607 ****
+----
+Train_mean loss: 0.016777
+Train_accuracy: 0.993179
+----
+eval mean loss: 0.015433
+eval accuracy: 0.993714
+eval avg class acc: 0.993383
+**** EPOCH 608 ****
+----
+Train_mean loss: 0.017158
+Train_accuracy: 0.992966
+----
+eval mean loss: 0.016503
+eval accuracy: 0.993312
+eval avg class acc: 0.992961
+**** EPOCH 609 ****
+----
+Train_mean loss: 0.016625
+Train_accuracy: 0.993210
+----
+eval mean loss: 0.013426
+eval accuracy: 0.994609
+eval avg class acc: 0.994281
+**** EPOCH 610 ****
+----
+Train_mean loss: 0.016856
+Train_accuracy: 0.993209
+----
+eval mean loss: 0.014658
+eval accuracy: 0.994064
+eval avg class acc: 0.993595
+Model saved in file: log20/model20.ckpt
+**** EPOCH 611 ****
+----
+Train_mean loss: 0.017161
+Train_accuracy: 0.993013
+----
+eval mean loss: 0.013025
+eval accuracy: 0.994770
+eval avg class acc: 0.994405
+**** EPOCH 612 ****
+----
+Train_mean loss: 0.016319
+Train_accuracy: 0.993388
+----
+eval mean loss: 0.013943
+eval accuracy: 0.994351
+eval avg class acc: 0.993938
+**** EPOCH 613 ****
+----
+Train_mean loss: 0.016723
+Train_accuracy: 0.993205
+----
+eval mean loss: 0.013312
+eval accuracy: 0.994654
+eval avg class acc: 0.994385
+**** EPOCH 614 ****
+----
+Train_mean loss: 0.017159
+Train_accuracy: 0.993054
+----
+eval mean loss: 0.016844
+eval accuracy: 0.993167
+eval avg class acc: 0.993022
+**** EPOCH 615 ****
+----
+Train_mean loss: 0.017190
+Train_accuracy: 0.993029
+----
+eval mean loss: 0.018280
+eval accuracy: 0.992523
+eval avg class acc: 0.991976
+**** EPOCH 616 ****
+----
+Train_mean loss: 0.016852
+Train_accuracy: 0.993167
+----
+eval mean loss: 0.013944
+eval accuracy: 0.994364
+eval avg class acc: 0.994097
+**** EPOCH 617 ****
+----
+Train_mean loss: 0.016976
+Train_accuracy: 0.993110
+----
+eval mean loss: 0.018097
+eval accuracy: 0.992612
+eval avg class acc: 0.992333
+**** EPOCH 618 ****
+----
+Train_mean loss: 0.016245
+Train_accuracy: 0.993401
+----
+eval mean loss: 0.014888
+eval accuracy: 0.993957
+eval avg class acc: 0.993636
+**** EPOCH 619 ****
+----
+Train_mean loss: 0.017009
+Train_accuracy: 0.993081
+----
+eval mean loss: 0.015568
+eval accuracy: 0.993642
+eval avg class acc: 0.993372
+**** EPOCH 620 ****
+----
+Train_mean loss: 0.016821
+Train_accuracy: 0.993149
+----
+eval mean loss: 0.012657
+eval accuracy: 0.994954
+eval avg class acc: 0.994591
+Model saved in file: log20/model20.ckpt
+**** EPOCH 621 ****
+----
+Train_mean loss: 0.016242
+Train_accuracy: 0.993373
+----
+eval mean loss: 0.015093
+eval accuracy: 0.993887
+eval avg class acc: 0.993461
+**** EPOCH 622 ****
+----
+Train_mean loss: 0.016616
+Train_accuracy: 0.993240
+----
+eval mean loss: 0.014991
+eval accuracy: 0.993919
+eval avg class acc: 0.993489
+**** EPOCH 623 ****
+----
+Train_mean loss: 0.016803
+Train_accuracy: 0.993142
+----
+eval mean loss: 0.014931
+eval accuracy: 0.993942
+eval avg class acc: 0.993870
+**** EPOCH 624 ****
+----
+Train_mean loss: 0.016793
+Train_accuracy: 0.993155
+----
+eval mean loss: 0.013675
+eval accuracy: 0.994474
+eval avg class acc: 0.993926
+**** EPOCH 625 ****
+----
+Train_mean loss: 0.016851
+Train_accuracy: 0.993093
+----
+eval mean loss: 0.016124
+eval accuracy: 0.993396
+eval avg class acc: 0.992925
+**** EPOCH 626 ****
+----
+Train_mean loss: 0.016161
+Train_accuracy: 0.993411
+----
+eval mean loss: 0.016257
+eval accuracy: 0.993376
+eval avg class acc: 0.993115
+**** EPOCH 627 ****
+----
+Train_mean loss: 0.016537
+Train_accuracy: 0.993290
+----
+eval mean loss: 0.015576
+eval accuracy: 0.993705
+eval avg class acc: 0.993356
+**** EPOCH 628 ****
+----
+Train_mean loss: 0.015974
+Train_accuracy: 0.993486
+----
+eval mean loss: 0.015570
+eval accuracy: 0.993670
+eval avg class acc: 0.993447
+**** EPOCH 629 ****
+----
+Train_mean loss: 0.016105
+Train_accuracy: 0.993453
+----
+eval mean loss: 0.014472
+eval accuracy: 0.994098
+eval avg class acc: 0.993856
+**** EPOCH 630 ****
+----
+Train_mean loss: 0.016190
+Train_accuracy: 0.993343
+----
+eval mean loss: 0.015785
+eval accuracy: 0.993539
+eval avg class acc: 0.993439
+Model saved in file: log20/model20.ckpt
+**** EPOCH 631 ****
+----
+Train_mean loss: 0.016383
+Train_accuracy: 0.993324
+----
+eval mean loss: 0.013683
+eval accuracy: 0.994427
+eval avg class acc: 0.993926
+**** EPOCH 632 ****
+----
+Train_mean loss: 0.016660
+Train_accuracy: 0.993248
+----
+eval mean loss: 0.014478
+eval accuracy: 0.994130
+eval avg class acc: 0.993989
+**** EPOCH 633 ****
+----
+Train_mean loss: 0.016023
+Train_accuracy: 0.993457
+----
+eval mean loss: 0.012717
+eval accuracy: 0.994952
+eval avg class acc: 0.994469
+**** EPOCH 634 ****
+----
+Train_mean loss: 0.016291
+Train_accuracy: 0.993395
+----
+eval mean loss: 0.012624
+eval accuracy: 0.994941
+eval avg class acc: 0.994442
+**** EPOCH 635 ****
+----
+Train_mean loss: 0.017170
+Train_accuracy: 0.993007
+----
+eval mean loss: 0.015213
+eval accuracy: 0.993876
+eval avg class acc: 0.993469
+**** EPOCH 636 ****
+----
+Train_mean loss: 0.016319
+Train_accuracy: 0.993391
+----
+eval mean loss: 0.015064
+eval accuracy: 0.993908
+eval avg class acc: 0.993541
+**** EPOCH 637 ****
+----
+Train_mean loss: 0.016241
+Train_accuracy: 0.993358
+----
+eval mean loss: 0.016239
+eval accuracy: 0.993397
+eval avg class acc: 0.993197
+**** EPOCH 638 ****
+----
+Train_mean loss: 0.016342
+Train_accuracy: 0.993314
+----
+eval mean loss: 0.013584
+eval accuracy: 0.994546
+eval avg class acc: 0.994336
+**** EPOCH 639 ****
+----
+Train_mean loss: 0.016061
+Train_accuracy: 0.993430
+----
+eval mean loss: 0.012793
+eval accuracy: 0.994821
+eval avg class acc: 0.994416
+**** EPOCH 640 ****
+----
+Train_mean loss: 0.016385
+Train_accuracy: 0.993396
+----
+eval mean loss: 0.015694
+eval accuracy: 0.993624
+eval avg class acc: 0.993535
+Model saved in file: log20/model20.ckpt
+**** EPOCH 641 ****
+----
+Train_mean loss: 0.018704
+Train_accuracy: 0.992708
+----
+eval mean loss: 0.015008
+eval accuracy: 0.993969
+eval avg class acc: 0.993473
+**** EPOCH 642 ****
+----
+Train_mean loss: 0.016652
+Train_accuracy: 0.993211
+----
+eval mean loss: 0.012850
+eval accuracy: 0.994860
+eval avg class acc: 0.994366
+**** EPOCH 643 ****
+----
+Train_mean loss: 0.016203
+Train_accuracy: 0.993393
+----
+eval mean loss: 0.014489
+eval accuracy: 0.994092
+eval avg class acc: 0.993664
+**** EPOCH 644 ****
+----
+Train_mean loss: 0.016358
+Train_accuracy: 0.993318
+----
+eval mean loss: 0.014713
+eval accuracy: 0.994002
+eval avg class acc: 0.993831
+**** EPOCH 645 ****
+----
+Train_mean loss: 0.016839
+Train_accuracy: 0.993122
+----
+eval mean loss: 0.018955
+eval accuracy: 0.992305
+eval avg class acc: 0.991816
+**** EPOCH 646 ****
+----
+Train_mean loss: 0.016500
+Train_accuracy: 0.993283
+----
+eval mean loss: 0.020351
+eval accuracy: 0.991737
+eval avg class acc: 0.991276
+**** EPOCH 647 ****
+----
+Train_mean loss: 0.015759
+Train_accuracy: 0.993587
+----
+eval mean loss: 0.015286
+eval accuracy: 0.993763
+eval avg class acc: 0.993322
+**** EPOCH 648 ****
+----
+Train_mean loss: 0.016809
+Train_accuracy: 0.993192
+----
+eval mean loss: 0.013540
+eval accuracy: 0.994535
+eval avg class acc: 0.994001
+**** EPOCH 649 ****
+----
+Train_mean loss: 0.016604
+Train_accuracy: 0.993255
+----
+eval mean loss: 0.013932
+eval accuracy: 0.994415
+eval avg class acc: 0.993990
+**** EPOCH 650 ****
+----
+Train_mean loss: 0.016228
+Train_accuracy: 0.993425
+----
+eval mean loss: 0.020878
+eval accuracy: 0.991565
+eval avg class acc: 0.991025
+Model saved in file: log20/model20.ckpt
+**** EPOCH 651 ****
+----
+Train_mean loss: 0.017030
+Train_accuracy: 0.993057
+----
+eval mean loss: 0.014555
+eval accuracy: 0.994130
+eval avg class acc: 0.993820
+**** EPOCH 652 ****
+----
+Train_mean loss: 0.016438
+Train_accuracy: 0.993317
+----
+eval mean loss: 0.014981
+eval accuracy: 0.993828
+eval avg class acc: 0.993453
+**** EPOCH 653 ****
+----
+Train_mean loss: 0.016157
+Train_accuracy: 0.993382
+----
+eval mean loss: 0.017024
+eval accuracy: 0.993063
+eval avg class acc: 0.992739
+**** EPOCH 654 ****
+----
+Train_mean loss: 0.016029
+Train_accuracy: 0.993425
+----
+eval mean loss: 0.015733
+eval accuracy: 0.993533
+eval avg class acc: 0.993120
+**** EPOCH 655 ****
+----
+Train_mean loss: 0.016591
+Train_accuracy: 0.993229
+----
+eval mean loss: 0.012567
+eval accuracy: 0.994908
+eval avg class acc: 0.994683
+**** EPOCH 656 ****
+----
+Train_mean loss: 0.016670
+Train_accuracy: 0.993240
+----
+eval mean loss: 0.012501
+eval accuracy: 0.994978
+eval avg class acc: 0.994758
+**** EPOCH 657 ****
+----
+Train_mean loss: 0.016185
+Train_accuracy: 0.993457
+----
+eval mean loss: 0.017290
+eval accuracy: 0.992933
+eval avg class acc: 0.992402
+**** EPOCH 658 ****
+----
+Train_mean loss: 0.016683
+Train_accuracy: 0.993240
+----
+eval mean loss: 0.012364
+eval accuracy: 0.995025
+eval avg class acc: 0.994727
+**** EPOCH 659 ****
+----
+Train_mean loss: 0.016454
+Train_accuracy: 0.993331
+----
+eval mean loss: 0.014950
+eval accuracy: 0.993922
+eval avg class acc: 0.993452
+**** EPOCH 660 ****
+----
+Train_mean loss: 0.015589
+Train_accuracy: 0.993655
+----
+eval mean loss: 0.012840
+eval accuracy: 0.994836
+eval avg class acc: 0.994672
+Model saved in file: log20/model20.ckpt
+**** EPOCH 661 ****
+----
+Train_mean loss: 0.016268
+Train_accuracy: 0.993405
+----
+eval mean loss: 0.013131
+eval accuracy: 0.994678
+eval avg class acc: 0.994345
+**** EPOCH 662 ****
+----
+Train_mean loss: 0.016064
+Train_accuracy: 0.993461
+----
+eval mean loss: 0.018495
+eval accuracy: 0.992446
+eval avg class acc: 0.992168
+**** EPOCH 663 ****
+----
+Train_mean loss: 0.016359
+Train_accuracy: 0.993303
+----
+eval mean loss: 0.013698
+eval accuracy: 0.994435
+eval avg class acc: 0.994176
+**** EPOCH 664 ****
+----
+Train_mean loss: 0.016038
+Train_accuracy: 0.993489
+----
+eval mean loss: 0.017809
+eval accuracy: 0.992764
+eval avg class acc: 0.992350
+**** EPOCH 665 ****
+----
+Train_mean loss: 0.016196
+Train_accuracy: 0.993399
+----
+eval mean loss: 0.016378
+eval accuracy: 0.993319
+eval avg class acc: 0.993055
+**** EPOCH 666 ****
+----
+Train_mean loss: 0.016222
+Train_accuracy: 0.993394
+----
+eval mean loss: 0.017734
+eval accuracy: 0.992744
+eval avg class acc: 0.992172
+**** EPOCH 667 ****
+----
+Train_mean loss: 0.015844
+Train_accuracy: 0.993550
+----
+eval mean loss: 0.013407
+eval accuracy: 0.994562
+eval avg class acc: 0.994132
+**** EPOCH 668 ****
+----
+Train_mean loss: 0.016305
+Train_accuracy: 0.993443
+----
+eval mean loss: 0.016315
+eval accuracy: 0.993272
+eval avg class acc: 0.992555
+**** EPOCH 669 ****
+----
+Train_mean loss: 0.018228
+Train_accuracy: 0.992721
+----
+eval mean loss: 0.018151
+eval accuracy: 0.992625
+eval avg class acc: 0.992396
+**** EPOCH 670 ****
+----
+Train_mean loss: 0.016602
+Train_accuracy: 0.993273
+----
+eval mean loss: 0.013102
+eval accuracy: 0.994708
+eval avg class acc: 0.994295
+Model saved in file: log20/model20.ckpt
+**** EPOCH 671 ****
+----
+Train_mean loss: 0.015669
+Train_accuracy: 0.993607
+----
+eval mean loss: 0.013906
+eval accuracy: 0.994309
+eval avg class acc: 0.993923
+**** EPOCH 672 ****
+----
+Train_mean loss: 0.016218
+Train_accuracy: 0.993404
+----
+eval mean loss: 0.012561
+eval accuracy: 0.994992
+eval avg class acc: 0.994702
+**** EPOCH 673 ****
+----
+Train_mean loss: 0.016587
+Train_accuracy: 0.993270
+----
+eval mean loss: 0.015481
+eval accuracy: 0.993705
+eval avg class acc: 0.993492
+**** EPOCH 674 ****
+----
+Train_mean loss: 0.015806
+Train_accuracy: 0.993608
+----
+eval mean loss: 0.014047
+eval accuracy: 0.994292
+eval avg class acc: 0.993979
+**** EPOCH 675 ****
+----
+Train_mean loss: 0.015893
+Train_accuracy: 0.993523
+----
+eval mean loss: 0.012184
+eval accuracy: 0.995104
+eval avg class acc: 0.994812
+**** EPOCH 676 ****
+----
+Train_mean loss: 0.015773
+Train_accuracy: 0.993574
+----
+eval mean loss: 0.014906
+eval accuracy: 0.993926
+eval avg class acc: 0.993534
+**** EPOCH 677 ****
+----
+Train_mean loss: 0.015785
+Train_accuracy: 0.993606
+----
+eval mean loss: 0.013640
+eval accuracy: 0.994535
+eval avg class acc: 0.994152
+**** EPOCH 678 ****
+----
+Train_mean loss: 0.016170
+Train_accuracy: 0.993434
+----
+eval mean loss: 0.012892
+eval accuracy: 0.994782
+eval avg class acc: 0.994341
+**** EPOCH 679 ****
+----
+Train_mean loss: 0.016530
+Train_accuracy: 0.993212
+----
+eval mean loss: 0.013405
+eval accuracy: 0.994569
+eval avg class acc: 0.994229
+**** EPOCH 680 ****
+----
+Train_mean loss: 0.018270
+Train_accuracy: 0.992938
+----
+eval mean loss: 0.013685
+eval accuracy: 0.994464
+eval avg class acc: 0.993858
+Model saved in file: log20/model20.ckpt
+**** EPOCH 681 ****
+----
+Train_mean loss: 0.016343
+Train_accuracy: 0.993349
+----
+eval mean loss: 0.014258
+eval accuracy: 0.994199
+eval avg class acc: 0.993844
+**** EPOCH 682 ****
+----
+Train_mean loss: 0.015993
+Train_accuracy: 0.993529
+----
+eval mean loss: 0.014135
+eval accuracy: 0.994273
+eval avg class acc: 0.993859
+**** EPOCH 683 ****
+----
+Train_mean loss: 0.015737
+Train_accuracy: 0.993595
+----
+eval mean loss: 0.013700
+eval accuracy: 0.994404
+eval avg class acc: 0.994138
+**** EPOCH 684 ****
+----
+Train_mean loss: 0.016163
+Train_accuracy: 0.993426
+----
+eval mean loss: 0.018364
+eval accuracy: 0.992502
+eval avg class acc: 0.991946
+**** EPOCH 685 ****
+----
+Train_mean loss: 0.015594
+Train_accuracy: 0.993668
+----
+eval mean loss: 0.013627
+eval accuracy: 0.994470
+eval avg class acc: 0.994238
+**** EPOCH 686 ****
+----
+Train_mean loss: 0.015425
+Train_accuracy: 0.993707
+----
+eval mean loss: 0.016638
+eval accuracy: 0.993203
+eval avg class acc: 0.992635
+**** EPOCH 687 ****
+----
+Train_mean loss: 0.015405
+Train_accuracy: 0.993746
+----
+eval mean loss: 0.013022
+eval accuracy: 0.994773
+eval avg class acc: 0.994328
+**** EPOCH 688 ****
+----
+Train_mean loss: 0.015923
+Train_accuracy: 0.993511
+----
+eval mean loss: 0.014946
+eval accuracy: 0.993910
+eval avg class acc: 0.993590
+**** EPOCH 689 ****
+----
+Train_mean loss: 0.017390
+Train_accuracy: 0.993078
+----
+eval mean loss: 0.016648
+eval accuracy: 0.993379
+eval avg class acc: 0.993063
+**** EPOCH 690 ****
+----
+Train_mean loss: 0.016805
+Train_accuracy: 0.993241
+----
+eval mean loss: 0.020558
+eval accuracy: 0.991957
+eval avg class acc: 0.991476
+Model saved in file: log20/model20.ckpt
+**** EPOCH 691 ****
+----
+Train_mean loss: 0.015475
+Train_accuracy: 0.993721
+----
+eval mean loss: 0.016585
+eval accuracy: 0.993283
+eval avg class acc: 0.993013
+**** EPOCH 692 ****
+----
+Train_mean loss: 0.015928
+Train_accuracy: 0.993492
+----
+eval mean loss: 0.012596
+eval accuracy: 0.994911
+eval avg class acc: 0.994759
+**** EPOCH 693 ****
+----
+Train_mean loss: 0.015649
+Train_accuracy: 0.993629
+----
+eval mean loss: 0.016443
+eval accuracy: 0.993376
+eval avg class acc: 0.993005
+**** EPOCH 694 ****
+----
+Train_mean loss: 0.015383
+Train_accuracy: 0.993734
+----
+eval mean loss: 0.016169
+eval accuracy: 0.993403
+eval avg class acc: 0.993293
+**** EPOCH 695 ****
+----
+Train_mean loss: 0.015237
+Train_accuracy: 0.993725
+----
+eval mean loss: 0.012883
+eval accuracy: 0.994745
+eval avg class acc: 0.994460
+**** EPOCH 696 ****
+----
+Train_mean loss: 0.016079
+Train_accuracy: 0.993475
+----
+eval mean loss: 0.012565
+eval accuracy: 0.994939
+eval avg class acc: 0.994551
+**** EPOCH 697 ****
+----
+Train_mean loss: 0.015962
+Train_accuracy: 0.993502
+----
+eval mean loss: 0.012781
+eval accuracy: 0.994897
+eval avg class acc: 0.994620
+**** EPOCH 698 ****
+----
+Train_mean loss: 0.016096
+Train_accuracy: 0.993454
+----
+eval mean loss: 0.019942
+eval accuracy: 0.991981
+eval avg class acc: 0.991395
+**** EPOCH 699 ****
+----
+Train_mean loss: 0.016210
+Train_accuracy: 0.993435
+----
+eval mean loss: 0.013722
+eval accuracy: 0.994457
+eval avg class acc: 0.994019
+**** EPOCH 700 ****
+----
+Train_mean loss: 0.015648
+Train_accuracy: 0.993659
+----
+eval mean loss: 0.013964
+eval accuracy: 0.994322
+eval avg class acc: 0.993691
+Model saved in file: log20/model20.ckpt
+**** EPOCH 701 ****
+----
+Train_mean loss: 0.016320
+Train_accuracy: 0.993381
+----
+eval mean loss: 0.018085
+eval accuracy: 0.992598
+eval avg class acc: 0.992232
+**** EPOCH 702 ****
+----
+Train_mean loss: 0.015719
+Train_accuracy: 0.993640
+----
+eval mean loss: 0.012801
+eval accuracy: 0.994784
+eval avg class acc: 0.994453
+**** EPOCH 703 ****
+----
+Train_mean loss: 0.016050
+Train_accuracy: 0.993459
+----
+eval mean loss: 0.013359
+eval accuracy: 0.994560
+eval avg class acc: 0.994112
+**** EPOCH 704 ****
+----
+Train_mean loss: 0.015523
+Train_accuracy: 0.993661
+----
+eval mean loss: 0.012300
+eval accuracy: 0.995030
+eval avg class acc: 0.994712
+**** EPOCH 705 ****
+----
+Train_mean loss: 0.016394
+Train_accuracy: 0.993331
+----
+eval mean loss: 0.014606
+eval accuracy: 0.994082
+eval avg class acc: 0.993771
+**** EPOCH 706 ****
+----
+Train_mean loss: 0.015592
+Train_accuracy: 0.993666
+----
+eval mean loss: 0.017797
+eval accuracy: 0.992742
+eval avg class acc: 0.992248
+**** EPOCH 707 ****
+----
+Train_mean loss: 0.015920
+Train_accuracy: 0.993553
+----
+eval mean loss: 0.013132
+eval accuracy: 0.994709
+eval avg class acc: 0.994392
+**** EPOCH 708 ****
+----
+Train_mean loss: 0.016083
+Train_accuracy: 0.993511
+----
+eval mean loss: 0.015128
+eval accuracy: 0.993856
+eval avg class acc: 0.993313
+**** EPOCH 709 ****
+----
+Train_mean loss: 0.015811
+Train_accuracy: 0.993540
+----
+eval mean loss: 0.017758
+eval accuracy: 0.992717
+eval avg class acc: 0.992333
+**** EPOCH 710 ****
+----
+Train_mean loss: 0.015643
+Train_accuracy: 0.993627
+----
+eval mean loss: 0.012841
+eval accuracy: 0.994838
+eval avg class acc: 0.994472
+Model saved in file: log20/model20.ckpt
+**** EPOCH 711 ****
+----
+Train_mean loss: 0.015852
+Train_accuracy: 0.993580
+----
+eval mean loss: 0.014511
+eval accuracy: 0.994087
+eval avg class acc: 0.993758
+**** EPOCH 712 ****
+----
+Train_mean loss: 0.015302
+Train_accuracy: 0.993734
+----
+eval mean loss: 0.014159
+eval accuracy: 0.994210
+eval avg class acc: 0.993964
+**** EPOCH 713 ****
+----
+Train_mean loss: 0.015571
+Train_accuracy: 0.993701
+----
+eval mean loss: 0.015563
+eval accuracy: 0.993644
+eval avg class acc: 0.993410
+**** EPOCH 714 ****
+----
+Train_mean loss: 0.015557
+Train_accuracy: 0.993698
+----
+eval mean loss: 0.012553
+eval accuracy: 0.994868
+eval avg class acc: 0.994531
+**** EPOCH 715 ****
+----
+Train_mean loss: 0.015557
+Train_accuracy: 0.993644
+----
+eval mean loss: 0.013931
+eval accuracy: 0.994323
+eval avg class acc: 0.994288
+**** EPOCH 716 ****
+----
+Train_mean loss: 0.016215
+Train_accuracy: 0.993505
+----
+eval mean loss: 0.015387
+eval accuracy: 0.993808
+eval avg class acc: 0.993623
+**** EPOCH 717 ****
+----
+Train_mean loss: 0.015243
+Train_accuracy: 0.993835
+----
+eval mean loss: 0.011675
+eval accuracy: 0.995318
+eval avg class acc: 0.995063
+**** EPOCH 718 ****
+----
+Train_mean loss: 0.015422
+Train_accuracy: 0.993727
+----
+eval mean loss: 0.012791
+eval accuracy: 0.994824
+eval avg class acc: 0.994322
+**** EPOCH 719 ****
+----
+Train_mean loss: 0.015424
+Train_accuracy: 0.993789
+----
+eval mean loss: 0.013007
+eval accuracy: 0.994707
+eval avg class acc: 0.994289
+**** EPOCH 720 ****
+----
+Train_mean loss: 0.015462
+Train_accuracy: 0.993735
+----
+eval mean loss: 0.013776
+eval accuracy: 0.994457
+eval avg class acc: 0.994081
+Model saved in file: log20/model20.ckpt
+**** EPOCH 721 ****
+----
+Train_mean loss: 0.015125
+Train_accuracy: 0.993798
+----
+eval mean loss: 0.013036
+eval accuracy: 0.994749
+eval avg class acc: 0.994466
+**** EPOCH 722 ****
+----
+Train_mean loss: 0.014569
+Train_accuracy: 0.994063
+----
+eval mean loss: 0.013255
+eval accuracy: 0.994642
+eval avg class acc: 0.994361
+**** EPOCH 723 ****
+----
+Train_mean loss: 0.014915
+Train_accuracy: 0.993948
+----
+eval mean loss: 0.014266
+eval accuracy: 0.994205
+eval avg class acc: 0.993789
+**** EPOCH 724 ****
+----
+Train_mean loss: 0.014956
+Train_accuracy: 0.993896
+----
+eval mean loss: 0.012693
+eval accuracy: 0.994909
+eval avg class acc: 0.994551
+**** EPOCH 725 ****
+----
+Train_mean loss: 0.014948
+Train_accuracy: 0.993927
+----
+eval mean loss: 0.012110
+eval accuracy: 0.995149
+eval avg class acc: 0.994670
+**** EPOCH 726 ****
+----
+Train_mean loss: 0.015067
+Train_accuracy: 0.993911
+----
+eval mean loss: 0.014717
+eval accuracy: 0.994026
+eval avg class acc: 0.993611
+**** EPOCH 727 ****
+----
+Train_mean loss: 0.015683
+Train_accuracy: 0.993711
+----
+eval mean loss: 0.015127
+eval accuracy: 0.993856
+eval avg class acc: 0.993518
+**** EPOCH 728 ****
+----
+Train_mean loss: 0.014733
+Train_accuracy: 0.994009
+----
+eval mean loss: 0.015203
+eval accuracy: 0.993837
+eval avg class acc: 0.993493
+**** EPOCH 729 ****
+----
+Train_mean loss: 0.015952
+Train_accuracy: 0.993775
+----
+eval mean loss: 0.016837
+eval accuracy: 0.993165
+eval avg class acc: 0.992855
+**** EPOCH 730 ****
+----
+Train_mean loss: 0.015377
+Train_accuracy: 0.993827
+----
+eval mean loss: 0.013023
+eval accuracy: 0.994705
+eval avg class acc: 0.994414
+Model saved in file: log20/model20.ckpt
+**** EPOCH 731 ****
+----
+Train_mean loss: 0.015214
+Train_accuracy: 0.993827
+----
+eval mean loss: 0.013690
+eval accuracy: 0.994449
+eval avg class acc: 0.994089
+**** EPOCH 732 ****
+----
+Train_mean loss: 0.014520
+Train_accuracy: 0.994090
+----
+eval mean loss: 0.012847
+eval accuracy: 0.994805
+eval avg class acc: 0.994529
+**** EPOCH 733 ****
+----
+Train_mean loss: 0.014599
+Train_accuracy: 0.994043
+----
+eval mean loss: 0.012931
+eval accuracy: 0.994799
+eval avg class acc: 0.994339
+**** EPOCH 734 ****
+----
+Train_mean loss: 0.014935
+Train_accuracy: 0.993915
+----
+eval mean loss: 0.013384
+eval accuracy: 0.994566
+eval avg class acc: 0.994139
+**** EPOCH 735 ****
+----
+Train_mean loss: 0.014551
+Train_accuracy: 0.994041
+----
+eval mean loss: 0.011822
+eval accuracy: 0.995315
+eval avg class acc: 0.995066
+**** EPOCH 736 ****
+----
+Train_mean loss: 0.015173
+Train_accuracy: 0.993810
+----
+eval mean loss: 0.013398
+eval accuracy: 0.994558
+eval avg class acc: 0.994201
+**** EPOCH 737 ****
+----
+Train_mean loss: 0.014880
+Train_accuracy: 0.993938
+----
+eval mean loss: 0.013346
+eval accuracy: 0.994621
+eval avg class acc: 0.994245
+**** EPOCH 738 ****
+----
+Train_mean loss: 0.015197
+Train_accuracy: 0.993849
+----
+eval mean loss: 0.016634
+eval accuracy: 0.993196
+eval avg class acc: 0.992809
+**** EPOCH 739 ****
+----
+Train_mean loss: 0.015040
+Train_accuracy: 0.993979
+----
+eval mean loss: 0.014407
+eval accuracy: 0.994124
+eval avg class acc: 0.993677
+**** EPOCH 740 ****
+----
+Train_mean loss: 0.015170
+Train_accuracy: 0.993790
+----
+eval mean loss: 0.016405
+eval accuracy: 0.993306
+eval avg class acc: 0.992874
+Model saved in file: log20/model20.ckpt
+**** EPOCH 741 ****
+----
+Train_mean loss: 0.014785
+Train_accuracy: 0.993993
+----
+eval mean loss: 0.011896
+eval accuracy: 0.995198
+eval avg class acc: 0.994760
+**** EPOCH 742 ****
+----
+Train_mean loss: 0.014448
+Train_accuracy: 0.994128
+----
+eval mean loss: 0.010684
+eval accuracy: 0.995743
+eval avg class acc: 0.995490
+**** EPOCH 743 ****
+----
+Train_mean loss: 0.015096
+Train_accuracy: 0.993893
+----
+eval mean loss: 0.014921
+eval accuracy: 0.993893
+eval avg class acc: 0.993584
+**** EPOCH 744 ****
+----
+Train_mean loss: 0.015096
+Train_accuracy: 0.993902
+----
+eval mean loss: 0.013475
+eval accuracy: 0.994576
+eval avg class acc: 0.994080
+**** EPOCH 745 ****
+----
+Train_mean loss: 0.014606
+Train_accuracy: 0.994079
+----
+eval mean loss: 0.014129
+eval accuracy: 0.994265
+eval avg class acc: 0.993899
+**** EPOCH 746 ****
+----
+Train_mean loss: 0.014252
+Train_accuracy: 0.994200
+----
+eval mean loss: 0.013472
+eval accuracy: 0.994551
+eval avg class acc: 0.994172
+**** EPOCH 747 ****
+----
+Train_mean loss: 0.014884
+Train_accuracy: 0.993924
+----
+eval mean loss: 0.015789
+eval accuracy: 0.993594
+eval avg class acc: 0.993211
+**** EPOCH 748 ****
+----
+Train_mean loss: 0.014547
+Train_accuracy: 0.994093
+----
+eval mean loss: 0.012640
+eval accuracy: 0.994879
+eval avg class acc: 0.994421
+**** EPOCH 749 ****
+----
+Train_mean loss: 0.014961
+Train_accuracy: 0.993853
+----
+eval mean loss: 0.012560
+eval accuracy: 0.994941
+eval avg class acc: 0.994507
+**** EPOCH 750 ****
+----
+Train_mean loss: 0.014775
+Train_accuracy: 0.993950
+----
+eval mean loss: 0.014620
+eval accuracy: 0.994068
+eval avg class acc: 0.993638
+Model saved in file: log20/model20.ckpt
+**** EPOCH 751 ****
+----
+Train_mean loss: 0.016908
+Train_accuracy: 0.993427
+----
+eval mean loss: 0.018281
+eval accuracy: 0.992544
+eval avg class acc: 0.992343
+**** EPOCH 752 ****
+----
+Train_mean loss: 0.014838
+Train_accuracy: 0.993969
+----
+eval mean loss: 0.015436
+eval accuracy: 0.993674
+eval avg class acc: 0.993053
+**** EPOCH 753 ****
+----
+Train_mean loss: 0.014639
+Train_accuracy: 0.994042
+----
+eval mean loss: 0.013259
+eval accuracy: 0.994633
+eval avg class acc: 0.994218
+**** EPOCH 754 ****
+----
+Train_mean loss: 0.014535
+Train_accuracy: 0.994098
+----
+eval mean loss: 0.013485
+eval accuracy: 0.994482
+eval avg class acc: 0.993978
+**** EPOCH 755 ****
+----
+Train_mean loss: 0.014753
+Train_accuracy: 0.993996
+----
+eval mean loss: 0.012242
+eval accuracy: 0.995045
+eval avg class acc: 0.994697
+**** EPOCH 756 ****
+----
+Train_mean loss: 0.014273
+Train_accuracy: 0.994160
+----
+eval mean loss: 0.013853
+eval accuracy: 0.994338
+eval avg class acc: 0.993950
+**** EPOCH 757 ****
+----
+Train_mean loss: 0.014427
+Train_accuracy: 0.994146
+----
+eval mean loss: 0.014574
+eval accuracy: 0.994059
+eval avg class acc: 0.993590
+**** EPOCH 758 ****
+----
+Train_mean loss: 0.013929
+Train_accuracy: 0.994343
+----
+eval mean loss: 0.012193
+eval accuracy: 0.995086
+eval avg class acc: 0.994784
+**** EPOCH 759 ****
+----
+Train_mean loss: 0.015252
+Train_accuracy: 0.993798
+----
+eval mean loss: 0.013637
+eval accuracy: 0.994476
+eval avg class acc: 0.994268
+**** EPOCH 760 ****
+----
+Train_mean loss: 0.014525
+Train_accuracy: 0.994137
+----
+eval mean loss: 0.015496
+eval accuracy: 0.993631
+eval avg class acc: 0.993289
+Model saved in file: log20/model20.ckpt
+**** EPOCH 761 ****
+----
+Train_mean loss: 0.014528
+Train_accuracy: 0.994067
+----
+eval mean loss: 0.011529
+eval accuracy: 0.995353
+eval avg class acc: 0.994963
+**** EPOCH 762 ****
+----
+Train_mean loss: 0.014683
+Train_accuracy: 0.993976
+----
+eval mean loss: 0.013015
+eval accuracy: 0.994699
+eval avg class acc: 0.994252
+**** EPOCH 763 ****
+----
+Train_mean loss: 0.014357
+Train_accuracy: 0.994117
+----
+eval mean loss: 0.011798
+eval accuracy: 0.995235
+eval avg class acc: 0.994906
+**** EPOCH 764 ****
+----
+Train_mean loss: 0.014582
+Train_accuracy: 0.994115
+----
+eval mean loss: 0.012008
+eval accuracy: 0.995206
+eval avg class acc: 0.995050
+**** EPOCH 765 ****
+----
+Train_mean loss: 0.014318
+Train_accuracy: 0.994160
+----
+eval mean loss: 0.011995
+eval accuracy: 0.995144
+eval avg class acc: 0.994678
+**** EPOCH 766 ****
+----
+Train_mean loss: 0.014346
+Train_accuracy: 0.994155
+----
+eval mean loss: 0.013342
+eval accuracy: 0.994544
+eval avg class acc: 0.994158
+**** EPOCH 767 ****
+----
+Train_mean loss: 0.014393
+Train_accuracy: 0.994101
+----
+eval mean loss: 0.011565
+eval accuracy: 0.995345
+eval avg class acc: 0.994882
+**** EPOCH 768 ****
+----
+Train_mean loss: 0.014032
+Train_accuracy: 0.994278
+----
+eval mean loss: 0.012680
+eval accuracy: 0.994829
+eval avg class acc: 0.994388
+**** EPOCH 769 ****
+----
+Train_mean loss: 0.014734
+Train_accuracy: 0.993963
+----
+eval mean loss: 0.011398
+eval accuracy: 0.995434
+eval avg class acc: 0.995263
+**** EPOCH 770 ****
+----
+Train_mean loss: 0.014042
+Train_accuracy: 0.994280
+----
+eval mean loss: 0.012708
+eval accuracy: 0.994830
+eval avg class acc: 0.994565
+Model saved in file: log20/model20.ckpt
+**** EPOCH 771 ****
+----
+Train_mean loss: 0.014498
+Train_accuracy: 0.994088
+----
+eval mean loss: 0.011694
+eval accuracy: 0.995319
+eval avg class acc: 0.994837
+**** EPOCH 772 ****
+----
+Train_mean loss: 0.014460
+Train_accuracy: 0.994142
+----
+eval mean loss: 0.012821
+eval accuracy: 0.994718
+eval avg class acc: 0.994302
+**** EPOCH 773 ****
+----
+Train_mean loss: 0.014842
+Train_accuracy: 0.993933
+----
+eval mean loss: 0.012615
+eval accuracy: 0.994849
+eval avg class acc: 0.994598
+**** EPOCH 774 ****
+----
+Train_mean loss: 0.014552
+Train_accuracy: 0.994090
+----
+eval mean loss: 0.013469
+eval accuracy: 0.994459
+eval avg class acc: 0.994010
+**** EPOCH 775 ****
+----
+Train_mean loss: 0.014750
+Train_accuracy: 0.994057
+----
+eval mean loss: 0.013471
+eval accuracy: 0.994552
+eval avg class acc: 0.994408
+**** EPOCH 776 ****
+----
+Train_mean loss: 0.014953
+Train_accuracy: 0.993965
+----
+eval mean loss: 0.014108
+eval accuracy: 0.994255
+eval avg class acc: 0.993950
+**** EPOCH 777 ****
+----
+Train_mean loss: 0.014154
+Train_accuracy: 0.994173
+----
+eval mean loss: 0.012587
+eval accuracy: 0.994887
+eval avg class acc: 0.994402
+**** EPOCH 778 ****
+----
+Train_mean loss: 0.014607
+Train_accuracy: 0.994054
+----
+eval mean loss: 0.012986
+eval accuracy: 0.994733
+eval avg class acc: 0.994497
+**** EPOCH 779 ****
+----
+Train_mean loss: 0.014514
+Train_accuracy: 0.994116
+----
+eval mean loss: 0.014044
+eval accuracy: 0.994271
+eval avg class acc: 0.993891
+**** EPOCH 780 ****
+----
+Train_mean loss: 0.013952
+Train_accuracy: 0.994316
+----
+eval mean loss: 0.013579
+eval accuracy: 0.994514
+eval avg class acc: 0.994150
+Model saved in file: log20/model20.ckpt
+**** EPOCH 781 ****
+----
+Train_mean loss: 0.014759
+Train_accuracy: 0.994002
+----
+eval mean loss: 0.013912
+eval accuracy: 0.994287
+eval avg class acc: 0.993989
+**** EPOCH 782 ****
+----
+Train_mean loss: 0.014281
+Train_accuracy: 0.994178
+----
+eval mean loss: 0.017848
+eval accuracy: 0.992739
+eval avg class acc: 0.992550
+**** EPOCH 783 ****
+----
+Train_mean loss: 0.014145
+Train_accuracy: 0.994248
+----
+eval mean loss: 0.013220
+eval accuracy: 0.994653
+eval avg class acc: 0.994344
+**** EPOCH 784 ****
+----
+Train_mean loss: 0.014273
+Train_accuracy: 0.994211
+----
+eval mean loss: 0.013987
+eval accuracy: 0.994331
+eval avg class acc: 0.993959
+**** EPOCH 785 ****
+----
+Train_mean loss: 0.014183
+Train_accuracy: 0.994177
+----
+eval mean loss: 0.015483
+eval accuracy: 0.993688
+eval avg class acc: 0.993084
+**** EPOCH 786 ****
+----
+Train_mean loss: 0.014253
+Train_accuracy: 0.994221
+----
+eval mean loss: 0.012854
+eval accuracy: 0.994783
+eval avg class acc: 0.994408
+**** EPOCH 787 ****
+----
+Train_mean loss: 0.014204
+Train_accuracy: 0.994215
+----
+eval mean loss: 0.011229
+eval accuracy: 0.995454
+eval avg class acc: 0.995224
+**** EPOCH 788 ****
+----
+Train_mean loss: 0.014127
+Train_accuracy: 0.994247
+----
+eval mean loss: 0.011839
+eval accuracy: 0.995207
+eval avg class acc: 0.994874
+**** EPOCH 789 ****
+----
+Train_mean loss: 0.014593
+Train_accuracy: 0.994104
+----
+eval mean loss: 0.014840
+eval accuracy: 0.993961
+eval avg class acc: 0.993430
+**** EPOCH 790 ****
+----
+Train_mean loss: 0.014312
+Train_accuracy: 0.994165
+----
+eval mean loss: 0.012546
+eval accuracy: 0.994856
+eval avg class acc: 0.994608
+Model saved in file: log20/model20.ckpt
+**** EPOCH 791 ****
+----
+Train_mean loss: 0.014635
+Train_accuracy: 0.993990
+----
+eval mean loss: 0.014336
+eval accuracy: 0.994161
+eval avg class acc: 0.993601
+**** EPOCH 792 ****
+----
+Train_mean loss: 0.014955
+Train_accuracy: 0.993928
+----
+eval mean loss: 0.012858
+eval accuracy: 0.994751
+eval avg class acc: 0.994561
+**** EPOCH 793 ****
+----
+Train_mean loss: 0.014208
+Train_accuracy: 0.994207
+----
+eval mean loss: 0.015215
+eval accuracy: 0.993756
+eval avg class acc: 0.993545
+**** EPOCH 794 ****
+----
+Train_mean loss: 0.014823
+Train_accuracy: 0.993938
+----
+eval mean loss: 0.013519
+eval accuracy: 0.994498
+eval avg class acc: 0.994041
+**** EPOCH 795 ****
+----
+Train_mean loss: 0.014610
+Train_accuracy: 0.994044
+----
+eval mean loss: 0.015163
+eval accuracy: 0.993810
+eval avg class acc: 0.993191
+**** EPOCH 796 ****
+----
+Train_mean loss: 0.014162
+Train_accuracy: 0.994277
+----
+eval mean loss: 0.012428
+eval accuracy: 0.994900
+eval avg class acc: 0.994527
+**** EPOCH 797 ****
+----
+Train_mean loss: 0.014244
+Train_accuracy: 0.994189
+----
+eval mean loss: 0.012781
+eval accuracy: 0.994787
+eval avg class acc: 0.994598
+**** EPOCH 798 ****
+----
+Train_mean loss: 0.014647
+Train_accuracy: 0.994063
+----
+eval mean loss: 0.014155
+eval accuracy: 0.994228
+eval avg class acc: 0.993858
+**** EPOCH 799 ****
+----
+Train_mean loss: 0.014198
+Train_accuracy: 0.994271
+----
+eval mean loss: 0.012019
+eval accuracy: 0.995134
+eval avg class acc: 0.994849
